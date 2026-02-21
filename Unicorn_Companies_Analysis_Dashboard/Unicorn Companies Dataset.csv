@@ -1,0 +1,1038 @@
+Company,Valuation ($B),Date Joined,Country,City,Industry,Financial Stage,Investors Count,Deal Terms
+Bytedance,$140,04-07-2017,China,Beijing,Artificial intelligence,IPO,28,8
+SpaceX,$100.3,12-01-2012,United States,Hawthorne,Other,None,29,12
+Stripe,$95,1/23/2014,United States,San Francisco,Fintech,Asset,39,12
+Klarna,$45.6,12-12-2011,Sweden,Stockholm,Fintech,Acquired,56,13
+Epic Games,$42,10/26/2018,United States,Cary,Other,Acquired,25,5
+Canva,$40,01-08-2018,Australia,Surry Hills,Internet software & services,None,26,8
+Checkout.com,$40,05-02-2019,United Kingdom,London,Fintech,None,15,4
+Instacart,$39,12/30/2014,United States,San Francisco,"Supply chain, logistics, & delivery",None,29,12
+Databricks,$38,02-05-2019,United States,San Francisco,Data management & analytics,None,29,8
+Revolut,$33,4/26/2018,United Kingdom,London,Fintech,None,31,6
+FTX,$32,7/20/2021,Bahamas,Fintech,"Sequoia Capital, Thoma Bravo, Softbank",Acq,40,3
+Fanatics,$27,06-06-2012,United States,Jacksonville,E-commerce & direct-to-consumer,None,21,10
+Chime,$25,03-05-2019,United States,San Francisco,Fintech,Divestiture,24,9
+BYJU's,$21,7/25/2017,India,Bengaluru,Edtech,None,45,19
+Xiaohongshu,$20,3/31/2016,China,Shanghai,E-commerce & direct-to-consumer,None,9,3
+J&T Express,$20,04-07-2021,Indonesia,Jakarta,"Supply chain, logistics, & delivery",None,9,3
+Miro,$17.5,01-05-2022,United States,San Francisco,Internet software & services,None,18,1
+Yuanfudao,$15.5,5/31/2017,China,Beijing,Edtech,Acquired,18,7
+DJI Innovations,$15,1/23/2015,China,Shenzhen,Hardware,None,7,3
+SHEIN,$15,07-03-2018,China,Shenzhen,E-commerce & direct-to-consumer,None,8,3
+goPuff,$15,10-08-2020,United States,Philadelphia,E-commerce & direct-to-consumer,None,16,4
+Yuanqi Senlin,$15,03-01-2020,China,Beijing,Consumer & retail,None,13,3
+Ripple,$15,12/20/2019,United States,San Francisco,Fintech,Acq,34,5
+Plaid,$13.4,12-11-2018,United States,San Francisco,Fintech,None,24,5
+OpenSea,$13.3,7/20/2021,United States,New York,E-commerce & direct-to-consumer,None,26,2
+Grammarly,$13,10-10-2019,United States,San Francisco,Internet software & services,None,8,3
+Devoted Health,$12.6,10/16/2018,United States,Waltham,Health,None,16,4
+Faire,$12.4,10/30/2019,United States,San Francisco,Artificial intelligence,None,14,6
+Brex,$12.3,10-05-2018,United States,San Francisco,Fintech,None,28,7
+JUUL Labs,$12,12/20/2017,United States,San Francisco,Consumer & retail,None,28,7
+Bitmain Technologies,$12,07-06-2018,China,Beijing,Hardware,None,28,7
+Biosplice Therapeutics,$12,08-06-2018,United States,San Diego,Health,None,10,1
+GoodLeap,$12,10/13/2021,United States,Roseville,Internet software & services,None,8,1
+Airtable,$11.7,11/15/2018,United States,San Francisco,Internet software & services,None,41,6
+ZongMu Technology,$11.4,06-03-2021,China,Shanghai,Auto & transportation,None,19,2
+Global Switch,$11.1,12/22/2016,United Kingdom,London,Hardware,None,6,2
+Celonis,$11,6/26/2018,Germany,Munich,Data management & analytics,None,13,4
+Bolt,$11,10-08-2021,United States,San Francisco,Fintech,None,37,3
+Alchemy,$10.2,10/28/2021,United States,San Francisco,Fintech,None,27,3
+Weilong,$10.88,05-08-2021,China,Luohe,Consumer & retail,None,7,1
+Swiggy,$10.7,6/21/2018,India,Bengaluru,"Supply chain, logistics, & delivery",Acquired,36,12
+Lalamove,$10,2/21/2019,Hong Kong,Cheung Sha Wan,"Supply chain, logistics, & delivery",None,15,5
+Figma,$10,4/30/2020,United States,San Francisco,Internet software & services,None,20,6
+Gusto,$10,12/18/2015,United States,San Francisco,Fintech,None,70,9
+reddit,$10,7/31/2017,United States,San Francisco,Internet software & services,Acquired,33,5
+Talkdesk,$10,10-03-2018,United States,San Francisco,Internet software & services,None,19,6
+Notion Labs,$10,04-01-2020,United States,San Francisco,Internet software & services,None,17,3
+Thrasio,$10,7/15/2020,United States,Walpole,Other,Acquired,22,5
+Digital Currency Group,$10,11-01-2021,United States,New York,Finttech,Acquired,22,5
+OutSystems,$9.5,06-05-2018,United States,Boston,Internet software & services,None,13,3
+ServiceTitan,$9.5,11/14/2018,United States,Glendale,Internet software & services,None,16,6
+HEYTEA,$9.28,07-01-2019,China,Shenzhen,Other,None,13,3
+N26,$9.23,01-10-2019,Germany,Berlin,Fintech,None,21,7
+Klaviyo,$9.2,11/17/2020,United States,Boston,Internet software & services,None,15,3
+Northvolt,$9.08,06-12-2019,Sweden,Stockholm,Other,None,54,4
+Tanium,$9,3/31/2015,United States,Kirkland,Cybersecurity,None,15,13
+Chehaoduo,$9,03-12-2016,China,Beijing,E-commerce & direct-to-consumer,None,35,4
+Niantic,$9,11/24/2017,United States,San Francisco,Mobile & telecommunications,None,22,5
+OYO Rooms,$9.6,9/25/2018,India,Gurugram,Travel,None,20,11
+Rapyd,$8.75,12-03-2019,United Kingdom,London,Fintech,None,21,4
+Kavak,$8.7,10-01-2020,Mexico,Lerma de Villada,E-commerce & direct-to-consumer,None,16,4
+Snyk,$8.6,1/21/2020,United States,Boston,Cybersecurity,None,26,9
+Nuro,$8.6,02-11-2019,United States,Mountain View,Auto & transportation,None,11,4
+Bolt,$8.4,5/29/2018,Estonia,Tallinn,Auto & transportation,None,28,5
+Lacework,$8.3,01-07-2021,United States,San Jose,Cybersecurity,None,19,4
+Tipalti,$8.3,10-06-2020,United States,San Mateo,Fintech,None,10,5
+Tempus,$8.1,3/21/2018,United States,Chicago,Health,None,10,6
+Xingsheng Selected,$8,7/22/2020,China,Changsha,E-commerce & direct-to-consumer,None,14,5
+Dream11,$8,04-09-2019,India,Mumbai,Internet software & services,None,15,8
+Fireblocks,$8,7/27/2021,United States,New York,Fintech,None,27,3
+Ramp,$8,3/29/2021,United States,New York,Fintech,None,18,5
+Flexport,$8,4/30/2018,United States,San Francisco,"Supply chain, logistics, & delivery",None,28,6
+Caris Life Sciences,$7.83,5/17/2021,United States,Irving,Health,None,17,3
+Dapper Labs,$7.6,3/30/2021,Canada,Vancouver,Fintech,None,85,3
+Hopin,$7.75,11-10-2020,United Kingdom,London,Internet software & services,None,85,3
+Getir,$7.5,3/26/2021,Turkey,Istanbul,E-commerce & direct-to-consumer,None,15,3
+Netskope,$7.5,11/13/2018,United States,Santa Clara,Cybersecurity,None,13,8
+Razorpay,$7.5,10-11-2020,India,Bengaluru,Fintech,None,24,6
+Toss,$7.4,12-09-2018,South Korea,Seoul,Fintech,None,17,6
+Carta,$7.4,05-06-2019,United States,San Francisco,Fintech,Acquired,32,8
+Scale AI,$7.3,08-05-2019,United States,San Francisco,Artificial intelligence,None,1,None
+Argo AI,$7.25,07-12-2019,United States,Pittsburgh,Artificial intelligence,None,2,1
+Gong,$7.25,08-12-2020,United States,Palo Alto,Artificial intelligence,None,13,4
+TripActions,$7.25,11-08-2018,United States,Palo Alto,Travel,None,13,6
+Gemini,$7.1,11/19/2021,United States,New York,Fintech,None,15,1
+We Doctor,$7,9/22/2015,China,Hangzhou,Health,None,16,3
+Discord,$7,4/20/2018,United States,San Francisco,Internet software & services,None,28,10
+Ro,$7,7/27/2020,United States,New York,Health,None,27,5
+Automation Anywhere,$6.8,07-02-2018,United States,San Jose,Artificial intelligence,None,8,3
+1Password,$6.8,07-08-2021,Canada,Toronto,Cybersecurity,None,30,2
+Ziroom,$6.6,1/17/2018,China,Beijing,E-commerce & direct-to-consumer,None,12,3
+National Stock Exchange of India,$6.5,07-01-2020,India,Mumbai,Fintech,IPO,7,1
+Mollie,$6.5,09-08-2020,Netherlands,Amsterdam,Fintech,None,12,2
+Rippling,$6.5,08-04-2020,United States,San Francisco,Internet software & services,None,15,4
+Ola Cabs,$7.5,10/27/2014,India,Bengaluru,Auto & transportation,None,8,None
+DataRobot,$6.3,7/29/2019,United States,Boston,Artificial intelligence,None,36,7
+Personio,$6.3,1/19/2021,Germany,Munich,Internet software & services,None,17,4
+Upgrade,$6.28,02-12-2018,United States,San Francisco,Fintech,None,23,5
+Hinge Health,$6.2,01-06-2021,United States,San Francisco,Health,None,13,6
+Black Unicorn Factory,$6.1,5/20/2021,United States,Los Angeles,Other,None,1,1
+Benchling,$6.1,4/14/2021,United States,San Francisco,Internet software & services,None,29,5
+Royole Corporation,$6,8/18/2015,China,Shenzhen,Hardware,None,32,4
+Better.com,$6,11-10-2020,United States,New York,Fintech,None,2,None
+Wiz,$6,3/17/2021,Israel,Tel Aviv,Cybersecurity,None,10,4
+iCapital Network,$6,7/27/2021,United States,New York,Fintech,None,28,2
+Pine Labs,$6,1/24/2020,India,Noida,Fintech,None,25,6
+6Sense,$5.2,3/30/2021,United States,San Francisco,Artificial intelligence,None,19,6
+Attentive,$5.99,9/23/2020,United States,Hoboken,Mobile & telecommunications,None,12,2
+Easyhome,$5.78,02-12-2018,China,Beijing,Consumer & retail,IPO,12,1
+Lianjia,$5.77,04-07-2016,China,Beijing,E-commerce & direct-to-consumer,IPO,15,2
+Vice Media,$5.7,04-02-2011,United States,Brooklyn,Internet software & services,Acquired,14,6
+Cityblock Health,$5.7,12-10-2020,United States,Brooklyn,Health,None,17,3
+Workato,$5.7,01-12-2021,United States,Mountain View,Internet software & services,None,11,3
+Back Market,$5.7,5/18/2021,France,Paris,E-commerce & direct-to-consumer,None,12,4
+RELEX Solutions,$5.7,2/17/2022,Finland,Helsinki,"Supply chain, logistics, & delivery",None,4,1
+Postman,$5.6,06-11-2020,United States,San Francisco,Internet software & services,None,8,3
+FiveTran,$5.6,6/30/2020,United States,Oakland,Data management & analytics,None,8,3
+Pony.ai,$5.3,07-11-2018,United States,Fremont,Artificial intelligence,None,25,7
+Trade Republic,$5.3,5/20/2021,Germany,Berlin,Fintech,None,7,1
+Rappi,$5.25,8/31/2018,Colombia,Bogota,"Supply chain, logistics, & delivery",None,35,5
+Collibra,$5.25,1/29/2019,Belgium,Brussels,Data management & analytics,None,13,6
+Blockchain.com,$5.2,2/17/2021,United Kingdom,London,Fintech,Acq,22,4
+OneTrust,$5.1,07-11-2019,United States,Atlanta,Internet software & services,None,5,3
+QuintoAndar,$5.1,09-09-2019,Brazil,Campinas,E-commerce & direct-to-consumer,None,16,6
+C6 Bank,$5.05,12-02-2020,Brazil,Sao Paulo,Fintech,None,16,6
+United Imaging Healthcare,$5,9/15/2017,China,Shanghai,Health,None,6,1
+Hello TransTech,$5,06-01-2018,China,Shanghai,Auto & transportation,None,13,3
+Deel,$5.5,4/21/2021,United States,San Francisco,Fintech,None,19,3
+Airwallex,$5.5,3/25/2019,Australia,Melbourne,Fintech,None,23,8
+Mambu,$5.5,01-06-2021,Netherlands,Amsterdam,Fintech,None,10,4
+Horizon Robotics,$5,2/27/2019,China,Beijing,Artificial intelligence,None,56,2
+WM Motor,$5,03-08-2019,China,Shanghai,Auto & transportation,None,35,1
+Howden Group Holdings,$5,9/29/2020,United Kingdom,London,Other,Take,4,3
+SambaNova Systems,$5,4/13/2021,United States,Palo Alto,Data management & analytics,None,10,2
+ZEPZ,$5,8/23/2021,United Kingdom,London,Fintech,None,9,6
+OakNorth Bank,$5,10-12-2017,United Kingdom,London,Fintech,Acq,10,6
+Moon Active,$5,1/26/2020,Israel,Tel Aviv,Mobile & telecommunications,Acq,10,6
+OfBusiness,$5,7/31/2021,India,Gurgaon,E-commerce & direct-to-consumer,None,14,6
+Cockroach Labs,$5,01-12-2021,United States,New York,Data management & analytics,None,17,5
+Qonto,$5,01-11-2022,France,Paris,Fintech,None,17,3
+Ola Electric Mobility,$5,07-02-2019,India,Bengaluru,Auto & transportation,None,20,3
+Icertis,$5,7/17/2019,United States,Bellevue,Artificial intelligence,None,12,6
+Hopper,$5,3/24/2021,Canada,Montreal,Travel,None,18,6
+Meesho,$4.9,04-05-2021,India,Bengaluru,Internet software & services,None,26,5
+Cerebral,$4.8,06-10-2021,United States,San Francisco,Health,None,1,None
+Creditas,$4.8,12/18/2020,Brazil,Sao Paulo,Fintech,Acquired,25,5
+Chipone,$4.73,12/20/2021,China,Beijing,Hardware,None,30,1
+Pleo,$4.7,07-06-2021,Denmark,Copenhagen,Fintech,None,16,4
+Anduril,$4.6,09-11-2019,United States,Irvine,Artificial intelligence,None,14,4
+Lyra Health,$5.85,8/25/2020,United States,Burlingame,Health,None,22,7
+Dataiku,$4.6,12-04-2019,United States,New York,Internet software & services,None,16,5
+Checkr,$4.6,9/19/2019,United States,San Francisco,Internet software & services,None,24,5
+Color,$4.6,01-04-2021,United States,Burlingame,Health,None,25,5
+Meizu Technology,$4.58,7/23/2014,China,Zhuhai,Hardware,IPO,4,2
+Vinted,$4.53,11/27/2019,Lithuania,Vilnius,E-commerce & direct-to-consumer,None,9,5
+VIPKid,$4.5,08-04-2016,China,Beijing,Edtech,None,12,3
+Socure,$4.5,3/16/2021,United States,New York,Cybersecurity,None,22,4
+Monzo,$4.5,10/31/2018,United Kingdom,London,Fintech,None,2,None
+UBTECH Robotics,$4.58,7/25/2016,China,Shenzhen,Hardware,IPO,22,7
+Outreach,$4.4,4/16/2019,United States,Seattle,Internet software & services,None,27,9
+WeRide,$4.4,12/23/2020,China,Guangzhou,Auto & transportation,None,30,6
+BetterUp,$4.7,2/25/2021,United States,San Francisco,Internet software & services,None,18,4
+Arctic Wolf Networks,$4.3,10/22/2020,United States,Eden Prairie,Cybersecurity,None,14,4
+Sorare,$4.3,9/21/2021,France,Paris,E-commerce & direct-to-consumer,None,24,1
+Relativity Space,$4.2,11/23/2020,United States,Inglewood,Other,None,35,4
+Miaoshou Doctor,$4.25,6/27/2019,China,Beijing,E-commerce & direct-to-consumer,None,21,4
+Chainalysis,$4.2,11/23/2020,United States,New York,Fintech,None,25,4
+ThoughtSpot,$4.2,05-08-2018,United States,Sunnyvale,Internet software & services,None,20,7
+Globalization Partners,$4.2,1/24/2022,United States,Boston,Internet software & services,None,5,1
+dbt Labs,$4.2,6/30/2021,United States,Philadelphia,Data management & analytics,None,12,2
+SSENSE,$4.15,06-08-2021,Canada,Montreal,E-commerce & direct-to-consumer,None,12,2
+Dataminr,$4.1,06-04-2018,United States,New York,Artificial intelligence,None,35,6
+BitPanda,$4.11,3/16/2021,Austria,Vienna,Fintech,None,12,2
+Weee!,$4.1,3/16/2021,United States,Fremont,"Supply chain, logistics, & delivery",None,14,3
+Houzz,$4,9/30/2014,United States,Palo Alto,E-commerce & direct-to-consumer,None,18,5
+CRED,$4.01,04-06-2021,India,Bengaluru,Fintech,None,18,5
+Yello Mobile,$4,11-11-2014,South Korea,Seoul,Mobile & telecommunications,Divestiture,8,6
+MEGVII,$4,10/31/2017,China,Beijing,Artificial intelligence,None,18,6
+Greensill,$4,7/16/2018,United Kingdom,London,Fintech,Management,2,2
+Impossible Foods,$4,5/13/2019,United States,Redwood City,Consumer & retail,None,38,7
+Radiology Partners,$4,7/19/2019,United States,El Segundo,Health,None,4,1
+Next Insurance,$4,10-07-2019,United States,Palo Alto,Fintech,None,17,6
+Patreon,$4,09-02-2020,United States,San Francisco,Internet software & services,Acquired,28,7
+PointClickCare,$4,01-07-2021,Canada,Mississauga,Internet software & services,None,3,1
+Zapier,$4,1/14/2021,United States,Sunnyvale,Internet software & services,None,6,1
+Clubhouse,$4,1/24/2021,United States,San Francisco,Mobile & telecommunications,None,6,1
+BrowserStack,$4,6/16/2021,Ireland,Dublin,Internet software & services,None,3,2
+Olive,$4,12-01-2020,United States,Columbus,Internet software & services,Divestiture,16,4
+Rubrik,$4,4/28/2017,United States,Palo Alto,Data management & analytics,None,10,6
+Melio,$4,1/25/2021,United States,New York,Fintech,None,13,2
+Vuori,$4,10/13/2021,United States,Carlsbad,E-commerce & direct-to-consumer,None,23,8
+ClickUp,$4,12/15/2020,United States,San Diego,Internet software & services,None,6,2
+Cerebras Systems,$4,11/14/2018,United States,Los Altos,Hardware,None,14,3
+Farmers Business Network,$4,08-03-2020,United States,San Carlos,Other,None,21,5
+Branch,$4,09-10-2018,United States,Redwood City,Mobile & telecommunications,None,15,5
+Aurora Solar,$4,5/24/2021,United States,San Francisco,Internet software & services,None,9,2
+Medlinker,$3.92,7/31/2018,China,Chengdu,Health,None,10,6
+Intarcia Therapeutics,$3.8,04-01-2014,United States,Boston,Health,None,38,14
+StockX,$3.8,6/26/2019,United States,Detroit,E-commerce & direct-to-consumer,None,30,4
+MessageBird,$3.8,10-08-2020,Netherlands,Amsterdam,Mobile & telecommunications,None,15,3
+Guild Education,$3.75,11/13/2019,United States,Denver,Internet software & services,None,25,5
+Articulate,$3.75,07-01-2021,United States,New York,Edtech,None,25,5
+FalconX,$3.75,08-10-2021,United States,San Mateo,Fintech,None,15,2
+Dutchie,$3.75,3/16/2021,United States,Bend,E-commerce & direct-to-consumer,None,14,2
+Cohesity,$3.7,06-11-2018,United States,San Jose,Data management & analytics,None,22,6
+VAST Data,$3.7,4/16/2020,United States,New York,Data management & analytics,None,11,2
+GOAT,$3.7,9/23/2020,United States,Culver City,E-commerce & direct-to-consumer,None,28,6
+Noom,$3.7,5/24/2021,United States,New York,Health,None,28,3
+Redwood Materials,$3.7,7/28/2021,United States,Carson City,Other,None,12,1
+Papaya Global,$3.7,03-04-2021,United States,New York,Internet software & services,None,16,2
+ShareChat,$3.7,04-08-2021,India,Bengaluru,Internet software & services,None,22,7
+Relativity,$3.6,3/18/2021,United States,Chicago,Internet software & services,None,2,1
+Whoop,$3.6,10/28/2020,United States,Boston,E-commerce & direct-to-consumer,None,36,6
+Applied Intuition,$3.6,10/22/2020,United States,Sunnyvale,Data management & analytics,None,21,2
+Course Hero,$3.6,02-12-2020,United States,Redwood City,Edtech,None,17,4
+Otto Bock HealthCare,$3.52,6/24/2017,Germany,Duderstadt,Health,None,2,1
+Indigo Ag,$3.5,9/26/2017,United States,Boston,Artificial intelligence,None,10,5
+HyalRoute,$3.5,5/26/2020,Singapore,Mobile & telecommunications,Kuang-Chi,None,1,1
+Rec Room,$3.5,3/23/2021,United States,Seattle,Internet software & services,None,13,3
+Digit Insurance,$3.5,1/15/2021,India,Bengaluru,Fintech,None,15,5
+Commure,$3.5,9/13/2021,United States,San Francisco,Internet software & services,None,2,2
+Mirakl,$3.5,9/22/2020,France,Paris,E-commerce & direct-to-consumer,None,6,4
+Coalition,$3.5,3/16/2021,United States,San Francisco,Cybersecurity,None,14,4
+Tekion,$3.5,10/21/2020,United States,San Ramon,Internet software & services,None,14,2
+Celsius Network,$3.5,10-12-2021,United States,Hoboken,Fintech,None,4,3
+GoStudent,$3.5,6/22/2021,Austria,Vienna,Edtech,None,13,3
+Highspot,$3.5,2/22/2021,United States,Seattle,Internet software & services,None,13,5
+Handshake,$3.5,05-12-2021,United States,San Francisco,Internet software & services,None,16,6
+ChargeBee Technologies,$3.5,4/20/2021,United States,Walnut,Fintech,None,6,4
+Flock Safety,$3.5,7/13/2021,United States,Atlanta,Hardware,None,15,2
+Unacademy,$3.44,09-02-2020,India,Bengaluru,Edtech,None,34,9
+MoonPay,$3.4,11/22/2021,United States,Miami,Fintech,None,6,1
+Upstox,$3.4,11/29/2021,India,Mumbai,Fintech,None,4,2
+Youxia Motors,$3.35,04-02-2018,China,Shanghai,Auto & transportation,None,7,2
+OwnBackup,$3.35,1/28/2021,United States,Englewood Cliffs,Data management & analytics,None,12,4
+Starburst,$3.35,01-06-2021,United States,Boston,Data management & analytics,None,1,None
+Cloudwalk,$3.32,10-08-2018,China,Guangzhou,Artificial intelligence,None,38,1
+ECARX,$3.31,10/26/2020,China,Wuhan,Auto & transportation,None,6,3
+Sila Nanotechnologies,$3.3,4/16/2019,United States,Alameda,Other,None,15,2
+Scopely,$3.3,10/29/2019,United States,Culver City,Mobile & telecommunications,Acquired,53,7
+Komodo Health,$3.3,5/22/2020,United States,San Francisco,Health,None,10,1
+Kurly,$3.3,07-09-2021,South Korea,Seoul,"Supply chain, logistics, & delivery",None,20,6
+Cars24,$3.3,11/24/2020,India,Gurgaon,E-commerce & direct-to-consumer,None,30,5
+BlockDaemon,$3.25,9/21/2021,United States,Los Angeles,Fintech,None,34,2
+Dadi Cinema,$3.24,05-11-2016,China,Shenzhen,Other,None,1,1
+Thumbtack,$3.2,9/29/2015,United States,San Francisco,E-commerce & direct-to-consumer,None,26,9
+Cedar,$3.2,03-09-2021,United States,New York,Fintech,None,16,3
+Eruditus Executive Education,$3.2,08-12-2021,India,Mumbai,Edtech,None,13,5
+Blockstream,$3.2,8/24/2021,Canada,Vancouver,Fintech,None,23,4
+ConsenSys,$3.2,11/17/2021,United States,New York,Fintech,None,24,1
+Innovaccer,$3.2,2/19/2021,United States,San Francisco,Health,None,27,4
+Ironclad,$3.2,1/18/2022,United States,Sacramento,Internet software & services,None,10,3
+Skims,$3.2,04-09-2021,United States,Los Angeles,E-commerce & direct-to-consumer,None,5,2
+PsiQuantum,$3.15,7/27/2021,United States,Palo Alto,Hardware,None,10,1
+SpotOn,$3.15,5/26/2021,United States,San Francisco,Fintech,None,13,3
+Udaan,$3.1,09-04-2018,India,Bengaluru,"Supply chain, logistics, & delivery",None,21,5
+HighRadius,$3.1,01-07-2020,United States,Houston,Fintech,None,11,2
+Nuvemshop,$3.1,8/17/2021,Brazil,Sao Paulo,E-commerce & direct-to-consumer,None,24,2
+DailyHunt,$3.1,12/22/2020,India,Bengaluru,Internet software & services,None,24,7
+Yixia,$3,11/24/2015,China,Beijing,Mobile & telecommunications,None,10,2
+Traveloka,$3,01-01-2017,Indonesia,Jakarta,Travel,None,8,3
+SouChe Holdings,$3,11-01-2017,China,Hangzhou,E-commerce & direct-to-consumer,None,22,2
+BGL Group,$3,11/24/2017,United Kingdom,Peterborough,Fintech,Divestiture,1,1
+Circle,$3,5/15/2018,United States,Boston,Fintech,Divestiture,34,6
+Zuoyebang,$3,7/18/2018,China,Beijing,Edtech,None,17,2
+Delhivery,$3,2/27/2019,India,Gurgaon,"Supply chain, logistics, & delivery",None,16,5
+FlixMobility,$3,7/18/2019,Germany,Munich,Auto & transportation,None,16,3
+Wildlife Studios,$3,12-05-2019,Brazil,Sao Paulo,Other,None,9,2
+ApplyBoard,$3,05-05-2020,Canada,Kitchener,Edtech,None,19,3
+Forter,$3,11/19/2020,United States,New York,Cybersecurity,None,17,4
+Calendly,$3,1/26/2021,United States,Atlanta,Internet software & services,None,4,1
+BlockFi,$3,03-11-2021,United States,Jersey City,Fintech,None,44,3
+ActiveCampaign,$3,4/21/2021,United States,Chicago,Internet software & services,None,4,1
+CMR Surgical,$3,9/17/2019,United Kingdom,Cambridge,Health,None,14,4
+Lucid Software,$3,6/29/2021,United States,South Jordan,Internet software & services,None,14,4
+Age of Learning,$3,05-03-2016,United States,Glendale,Edtech,None,4,2
+Carbon Health,$3,7/21/2021,United States,San Francisco,Health,None,36,2
+Contentful,$3,7/28/2021,Germany,Berlin,Internet software & services,None,13,3
+LaunchDarkly,$3,7/28/2021,United States,Oakland,Internet software & services,None,13,4
+Seismic,$3,12/18/2018,United States,San Diego,Internet software & services,None,8,6
+Grafana Labs,$3,8/24/2021,United States,New York,Internet software & services,None,5,1
+Gorillas,$3.1,3/25/2021,Germany,Berlin,E-commerce & direct-to-consumer,None,14,2
+Sky Mavis,$3,10-04-2021,Vietnam,Ho Chi Minh City,Internet software & services,None,18,1
+Outschool,$3,4/14/2021,United States,San Francisco,Edtech,None,13,2
+TradingView,$3,10/14/2021,United States,Westerville,Fintech,None,10,4
+Groww,$3,04-07-2021,India,Bengaluru,Fintech,None,17,3
+Podium,$3,04-07-2020,United States,Lehi,Internet software & services,None,12,4
+Via,$3.3,3/30/2020,United States,New York,Auto & transportation,None,23,6
+Anchorage Digital,$3,12/15/2021,United States,San Francisco,Fintech,None,28,1
+Inxeption,$3,1/13/2022,United States,San Francisco,Fintech,None,5,1
+Lattice,$3,3/23/2021,United States,San Francisco,Internet software & services,None,17,6
+Flutterwave,$3,03-09-2021,United States,San Francisco,Fintech,None,41,5
+Amber Group,$3,6/21/2021,Hong Kong,Fintech,"Tiger Global Management, Tiger Brokers, DCM Ventures",None,18,3
+Kraken,$2.92,6/25/2019,United States,San Francisco,Fintech,None,11,1
+OpenAI,$2.92,7/22/2019,United States,San Francisco,Artificial intelligence,None,6,None
+Ovo,$2.9,3/14/2019,Indonesia,Jakarta,Fintech,Acquired,3,1
+Workrise,$2.9,9/30/2019,United States,Austin,Internet software & services,None,16,5
+Loft,$2.9,01-03-2020,Brazil,Sao Paulo,E-commerce & direct-to-consumer,None,34,4
+BharatPe,$2.85,7/30/2021,India,New Delhi,Fintech,None,22,4
+DriveWealth,$2.85,8/20/2021,United States,Chatham,Fintech,None,13,3
+Flink,$2.85,12-01-2021,Germany,Berlin,E-commerce & direct-to-consumer,None,10,1
+Meicai,$2.8,6/22/2016,China,Beijing,Mobile & telecommunications,None,9,1
+ContentSquare,$2.8,5/25/2021,France,Paris,Internet software & services,None,11,3
+Zipline,$2.8,5/20/2019,United States,South San Francisco,"Supply chain, logistics, & delivery",None,37,4
+Graphcore,$2.77,12/18/2018,United Kingdom,Bristol,Artificial intelligence,None,29,5
+Illumio,$2.75,4/14/2015,United States,Sunnyvale,Cybersecurity,None,18,5
+Convoy,$2.75,9/21/2018,United States,Seattle,"Supply chain, logistics, & delivery",None,43,4
+MasterClass,$2.75,5/13/2021,United States,San Francisco,Edtech,None,31,4
+Dream Games,$2.75,6/30/2021,Turkey,Istanbul,Mobile & telecommunications,None,6,3
+Transmit Security,$2.74,6/22/2021,Israel,Tel Aviv,Cybersecurity,None,11,1
+Hozon Auto,$3.95,10/25/2021,China,Shanghai,Auto & transportation,None,13,2
+Tradeshift,$2.7,5/30/2018,United States,San Francisco,Fintech,None,28,9
+Nextiva,$2.7,9/14/2021,United States,Scottsdale,Internet software & services,None,2,1
+o9 Solutions,$2.7,4/28/2020,United States,Dallas,Artificial intelligence,None,3,2
+ManoMano,$2.6,07-05-2021,France,Paris,E-commerce & direct-to-consumer,None,12,3
+Sourcegraph,$2.62,7/13/2021,United States,San Francisco,Internet software & services,None,8,2
+Pendo,$2.6,10/17/2019,United States,Raleigh,Internet software & services,None,18,4
+Plume,$2.6,2/23/2021,United States,Palo Alto,Internet software & services,None,15,6
+Moglix,$2.6,5/17/2021,Singapore,E-commerce & direct-to-consumer,"Jungle Ventures, Accel, Venture Highway",None,16,6
+Xinchao Media,$2,04-09-2018,China,Chengdu,Internet software & services,IPO,8,4
+JumpCloud,$2.62,9/13/2021,United States,Louisville,Data management & analytics,None,20,4
+Vista Global,$2.5,8/23/2017,United Arab Emirates,Dubai,Other,None,20,4
+BYTON,$2.5,4/20/2018,China,Nanjing,Auto & transportation,None,11,3
+Acronis,$2.5,9/18/2019,Switzerland,Schaffhausen,Cybersecurity,None,8,2
+Side,$2.5,3/22/2021,United States,San Francisco,Internet software & services,None,10,2
+Lenskart,$2.5,12/20/2019,India,Faridabad,E-commerce & direct-to-consumer,Acquired,18,9
+Infra.Market,$2.5,2/25/2021,India,Thane,E-commerce & direct-to-consumer,None,26,2
+Varo Bank,$2.5,09-09-2021,United States,San Francisco,Fintech,None,14,3
+Cato Networks,$2.5,11/17/2020,Israel,Tel Aviv,Cybersecurity,None,10,4
+Aura,$2.5,06-09-2021,United States,Burlington,Cybersecurity,None,6,2
+Vercel,$2.5,6/23/2021,United States,San Francisco,Internet software & services,None,16,2
+Sysdig,$2.5,4/28/2021,United States,San Francisco,Cybersecurity,None,12,4
+Zetwerk,$2.5,8/20/2021,India,Bengaluru,Internet software & services,None,24,3
+Uniphore,$2.5,2/16/2022,United States,Palo Alto,Artificial Intelligence,None,25,3
+Somatus,$2.5,2/23/2022,United States,McLean,Health,None,14,3
+Uala,$2.45,8/13/2021,Argentina,Buenos Aires,Fintech,None,21,4
+Mobile Premier League,$2.45,9/15/2021,India,Bengaluru,Internet software & services,None,30,3
+Cybereason,$2.44,08-06-2019,United States,Boston,Cybersecurity,None,8,5
+Cgtz,$2.41,2/21/2017,China,Hangzhou,Fintech,None,4,1
+Star Charge,$2.41,5/19/2021,China,Changzhou,Auto & transportation,None,9,1
+Carbon,$2.4,8/20/2015,United States,Redwood City,Hardware,None,24,5
+PolicyBazaar,$2.4,05-06-2019,India,Gurgaon,Fintech,None,22,7
+Paxos,$2.4,4/29/2021,United States,New York,Fintech,None,1,None
+Exabeam,$2.4,06-01-2021,United States,Foster City,Cybersecurity,None,9,5
+BitSight Technologies,$2.4,9/13/2021,United States,Boston,Cybersecurity,None,9,5
+Trumid,$2.4,7/15/2020,United States,New York,Fintech,None,22,5
+ABL Space Systems,$2.4,3/25/2021,United States,El Segundo,Other,None,9,2
+Project44,$2.62,06-01-2021,United States,Chicago,"Supply chain, logistics, & delivery",None,20,4
+Bought By Many,$2.35,06-01-2021,United Kingdom,London,Fintech,None,8,3
+Jobandtalent,$2.35,12-01-2021,Spain,Madrid,Internet software & services,None,20,3
+WEMAKEPRICE,$2.34,09-09-2015,South Korea,Seoul,E-commerce & direct-to-consumer,None,3,4
+Biren Technology,$2.32,8/18/2020,China,Shanghai,Hardware,None,32,3
+Voodoo,$2.31,8/17/2020,France,Paris,Other,None,3,2
+Uptake,$2.3,10/27/2015,United States,Chicago,Artificial intelligence,None,8,4
+KeepTruckin,$2.3,4/23/2019,United States,San Francisco,"Supply chain, logistics, & delivery",None,8,5
+Skydance Media,$2.3,02-11-2020,United States,Santa Monica,Other,None,4,1
+Greenlight,$2.3,9/24/2020,United States,Atlanta,Fintech,None,22,3
+Bowery Farming,$2.3,5/25/2021,United States,New York,Other,None,31,2
+Odoo,$2.3,7/29/2021,Belgium,Louvain-la-Neuve,Internet software & services,None,6,1
+MoMo,$2.27,12-10-2021,Vietnam,Ho Chi Minh City,Fintech,None,10,3
+Ankorstore,$2.26,01-10-2022,France,Paris,E-commerce & direct-to-consumer,None,9,1
+Zume,$2.25,11-01-2018,United States,Mountain View,Consumer & retail,None,6,3
+Algolia,$2.25,7/28/2021,United States,San Francisco,Internet software & services,None,28,3
+Pattern,$2.25,10-06-2021,United States,Lehi,Internet software & services,None,5,1
+NuCom Group,$2.2,2/22/2018,Germany,Unterfoehring,Other,Acquired,1,1
+MUSINSA,$2.2,11-11-2019,South Korea,Seoul,E-commerce & direct-to-consumer,None,2,2
+Current,$2.2,4/27/2021,United States,New York,Fintech,None,18,3
+Bitso,$2.2,05-05-2021,Mexico,Mexico City,Fintech,None,22,2
+Gympass,$2.2,06-12-2019,United States,New York,Internet software & services,None,10,2
+Reify Health,$2.2,08-10-2021,United States,Boston,Health,None,8,2
+Dialpad,$2.2,10-06-2020,United States,San Francisco,Internet software & services,None,15,7
+G7 Networks,$2.2,2/15/2022,China,Beijing,"Supply chain, logistics, & delivery",None,17,1
+BloomReach,$2.2,2/23/2022,United States,Mountain View,Artificial intelligence,None,8,6
+Huaqin Telecom Technology,$2.19,10-08-2019,China,Shanghai,Mobile & telecommunications,None,16,1
+Accelerant,$2.19,01-12-2022,United Kingdom,Colchester,Other,None,5,1
+Hesai Tech,$2.18,08-01-2020,China,Shanghai,Artificial intelligence,None,20,3
+YITU Technology,$2.17,03-08-2018,China,Shanghai,Artificial intelligence,Divestiture,11,1
+Addepar,$2.17,6/15/2021,United States,Mountain View,Fintech,None,18,5
+Neo4j,$2.15,6/17/2021,United States,San Mateo,Data management & analytics,None,18,4
+CloudWalk,$2.15,09-08-2021,Brazil,Sao Paulo,Fintech,None,14,1
+FirstCry,$2.1,02-07-2020,India,Pune,E-commerce & direct-to-consumer,None,15,6
+Eightfold.ai,$2.1,10/27/2020,United States,Santa Clara,Internet software & services,None,6,3
+Webflow,$2.1,1/13/2021,United States,San Francisco,Internet software & services,None,9,2
+Urban Company,$2.1,4/27/2021,India,Gurgaon,E-commerce & direct-to-consumer,None,17,7
+ReCharge,$2.1,05-06-2021,United States,Los Angeles,Fintech,None,3,None
+Moveworks,$2.1,6/30/2021,United States,Mountain View,Artificial intelligence,None,11,1
+Medable,$2.1,10/26/2021,United States,Palo Alto,Internet software & services,None,13,2
+SoundHound,$2.1,05-03-2018,United States,Santa Clara,Artificial intelligence,None,24,8
+GoCardless,$2.1,02-08-2022,United Kingdom,London,Fintech,None,16,4
+Trendy Group International,$2,2/13/2012,Hong Kong,Kowloon,Consumer & retail,None,1,1
+Avant,$2,12/17/2012,United States,Chicago,Artificial intelligence,None,14,6
+Tubatu.com,$2,03-09-2015,China,Shenzhen,E-commerce & direct-to-consumer,None,3,1
+BlaBlaCar,$2,9/16/2015,France,Paris,Auto & transportation,None,13,6
+HuiMin,$2,09-05-2016,China,Beijing,E-commerce & direct-to-consumer,None,13,1
+Quora,$2,4/21/2017,United States,Mountain View,Internet software & services,None,10,5
+Improbable,$2,05-11-2017,United Kingdom,London,Other,None,7,4
+Preferred Networks,$2,5/17/2018,Japan,Tokyo,Artificial intelligence,None,11,2
+Formlabs,$2,08-01-2018,United States,Somerville,Hardware,None,24,6
+4Paradigm,$2,12/19/2018,China,Beijing,Artificial intelligence,None,39,2
+Calm,$2,02-06-2019,United States,San Francisco,Consumer & retail,None,28,4
+Kaseya,$2,3/27/2019,United States,Miami,Cybersecurity,None,3,1
+Mafengwo,$2,5/23/2019,China,Beijing,Travel,None,13,1
+Druva,$2,6/20/2019,United States,Sunnyvale,Data management & analytics,None,16,4
+Kujiale,$2,10/25/2019,China,Hangzhou,Internet software & services,None,15,5
+AppsFlyer,$2,1/21/2020,United States,San Francisco,Mobile & telecommunications,None,8,4
+Keep,$2,5/19/2020,China,Beijing,Mobile & telecommunications,None,11,2
+Redis Labs,$2,8/25/2020,United States,Mountain View,Data management & analytics,None,13,5
+Xingyun Group,$2,9/24/2020,China,Shenzhen,E-commerce & direct-to-consumer,None,29,1
+Unqork,$2,10-06-2020,United States,New York,Fintech,None,14,1
+Virta Health,$2,12-02-2020,United States,San Francisco,Health,None,15,3
+ISN,$2,12/17/2020,United States,Dallas,"Supply chain, logistics, & delivery",None,1,1
+Earnix,$2,2/21/2021,Israel,Giv'atayim,Fintech,None,6,2
+Guoquan Shihui,$2,3/17/2021,China,Shanghai,Consumer & retail,None,9,2
+Arrail Dental,$1.05,4/13/2021,China,Beijing,Health,None,15,7
+Clearco,$2,4/20/2021,Canada,Toronto,Fintech,None,23,1
+Hive,$2,4/21/2021,United States,San Francisco,Artificial intelligence,None,5,1
+KRY,$2,4/27/2021,Sweden,Stockholm,Health,None,10,3
+Kajabi,$2,05-04-2021,United States,Irvine,Internet software & services,None,6,1
+Ethos,$2.7,05-11-2021,United States,San Francisco,Fintech,None,1,None
+PayFit,$2.1,01-06-2022,United Kingdom,London,Fintech,None,13,3
+Beisen,$2,05-11-2021,China,Beijing,Internet software & services,None,18,2
+Pipe,$2,5/19/2021,United States,Miami,Fintech,None,36,1
+Iterable,$2,6/15/2021,United States,San Francisco,Internet software & services,None,18,4
+Bunq,$2,6/18/2021,Netherlands,Amsterdam,Fintech,None,1,1
+Clip,$2,06-10-2021,Mexico,Mexico City,Fintech,None,15,4
+Loggi,$2,06-05-2019,Brazil,Sao Paulo,"Supply chain, logistics, & delivery",None,15,4
+MURAL,$2,7/20/2021,United States,San Francisco,Internet software & services,None,15,5
+Pagaya,$2,6/17/2020,Israel,Tel Aviv,Fintech,None,15,3
+OCSiAl,$2,03-04-2019,Luxembourg,Leudelange,Other,None,3,2
+XtalPi,$2,08-11-2021,China,Shenzhen,Artificial intelligence,None,30,3
+Divvy Homes,$2,8/13/2021,United States,San Francisco,Fintech,None,16,1
+Apeel Sciences,$2,5/26/2020,United States,Goleta,Other,None,25,6
+Opay,$2,8/23/2021,Nigeria,Lagos,Fintech,None,13,1
+Aviatrix,$2,09-08-2021,United States,Santa Clara,Internet software & services,None,12,4
+SmartNews,$2,08-05-2019,Japan,Tokyo,Mobile & telecommunications,None,20,7
+Misfits Market,$2,4/21/2021,United States,Pennsauken,E-commerce & direct-to-consumer,None,9,2
+Spring Health,$2,9/16/2021,United States,New York,Health,None,25,3
+Black Sesame Technologies,$2,9/22/2021,China,Shanghai,Artificial intelligence,None,18,1
+Advance Intelligence Group,$2,9/23/2021,Singapore,Artificial intelligence,"Vision Plus Capital, GSR Ventures, ZhenFund",None,13,1
+Modern Treasury,$2,10-06-2021,United States,San Francisco,Fintech,None,5,1
+Magic Leap,$2,10/21/2014,United States,Plantation,Hardware,None,26,7
+Tier,$2,10/25/2021,Germany,Berlin,Travel,None,20,2
+Aiven,$2,10/18/2021,Finland,Helsinki,Internet software & services,None,14,2
+ClickHouse,$2,10/28/2021,United States,Portola Valley,Data management & analytics,None,11,1
+Mynt,$2,10/28/2021,Philippines,Taguig City,Fintech,None,7,1
+Everlaw,$2,11-02-2021,United States,Oakland,Internet software & services,None,7,5
+Zilch,$2,11-10-2021,United Kingdom,London,Fintech,None,6,2
+VerbIT,$2,06-08-2021,United States,New York,Artificial intelligence,None,23,2
+StarkWare,$2,11/17/2021,Israel,Netanya,Cybersecurity,None,20,1
+Netlify,$2,11/17/2021,United States,San Francisco,Internet software & services,None,15,2
+Deliverr,$2,11/22/2021,United States,San Francisco,"Supply chain, logistics, & delivery",None,10,2
+SWORD Health,$2,11/22/2021,United States,New York,Health,None,20,2
+LTK,$2,11/22/2021,United States,Dallas,Internet software & services,None,5,2
+Exotec,$2,1/17/2022,France,Croix,Hardware,None,7,3
+Dremio,$2,01-06-2021,United States,Santa Clara,Data management & analytics,None,9,4
+Akulaku,$2,2/15/2022,Indonesia,Jakarta,E-commerce & direct-to-consumer,None,15,3
+Cloudinary,$2,2/15/2022,United States,Santa Clara,Internet software & services,None,2,1
+Fenbi Education,$1.95,02-07-2021,China,Beijing,Edtech,None,8,1
+Starling Bank,$1.95,03-08-2021,United Kingdom,London,Fintech,None,11,2
+Rokt,$1.95,12/16/2021,United States,New York,Internet software & services,None,12,4
+InVision,$1.9,11-01-2017,United States,New York,Internet software & services,None,9,5
+eDaili,$1.9,02-01-2019,China,Shanghai,E-commerce & direct-to-consumer,None,8,2
+MX Technologies,$1.9,1/13/2021,United States,Lehi,Fintech,None,31,2
+Aledade,$1.9,1/19/2021,United States,Bethesda,Health,None,13,2
+CoinSwitch Kuber,$1.9,10-06-2021,India,Bangalore,Fintech,None,7,2
+ENOVATE,$1.85,4/15/2019,China,Shanghai,Auto & transportation,None,1,1
+CFGI,$1.85,9/15/2021,United States,Boston,Fintech,None,2,1
+Retool,$1.85,12/22/2021,United States,San Francisco,Internet software & services,None,2,1
+Automattic,$1.8,5/27/2013,United States,San Francisco,Internet software & services,None,22,7
+ZocDoc,$1.8,8/20/2015,United States,New York,Health,None,15,4
+Diamond Foundry,$1.8,3/29/2021,United States,San Francisco,Other,None,16,1
+FullStory,$1.8,08-04-2021,United States,Atlanta,Internet software & services,None,9,4
+Lightricks,$1.8,7/31/2019,Israel,Jerusalem,Artificial intelligence,None,16,3
+Opentrons,$1.8,9/23/2021,United States,New York,Hardware,None,8,2
+AIWAYS,$1.78,4/16/2018,China,Shanghai,Auto & transportation,None,10,1
+Trulioo,$1.75,06-07-2021,Canada,Vancouver,Cybersecurity,None,12,3
+Spinny,$1.75,11/24/2021,India,Gurugram,E-commerce & direct-to-consumer,None,20,5
+Orca Security,$1.8,3/23/2021,United States,Portland,Cybersecurity,None,15,2
+Apus Group,$1.73,1/16/2015,China,Beijing,Mobile & telecommunications,None,6,2
+Harry's,$1.7,2/16/2018,United States,New York,Consumer & retail,Reverse,25,5
+PAX,$1.7,10/22/2018,United States,San Francisco,Consumer & retail,None,10,3
+Harness,$1.7,1/14/2021,United States,San Francisco,Artificial intelligence,None,2,None
+DispatchHealth,$1.7,03-03-2021,United States,Denver,Health,None,9,2
+Unite Us,$1.7,3/17/2021,United States,New York,Health,None,15,3
+CircleCI,$1.7,05-11-2021,United States,San Francisco,Internet software & services,None,26,3
+Wave,$1.7,09-07-2021,Senegal,Dakar,Fintech,None,2,None
+Vestiaire Collective,$1.7,03-01-2021,France,Paris,E-commerce & direct-to-consumer,None,17,4
+Dragos,$1.7,10/28/2021,United States,Hanover,Cybersecurity,None,13,2
+Reltio,$1.7,11-04-2021,United States,Redwood City,Data management & analytics,None,9,4
+H2O.ai,$1.7,11-07-2021,United States,Mountain View,Artificial intelligence,None,21,4
+ZenBusiness,$1.7,11-09-2021,United States,Austin,Fintech,None,19,1
+Carsome,$1.7,07-12-2021,Malaysia,Selangor,E-commerce & direct-to-consumer,None,24,5
+Productboard,$1.7,02-02-2022,United States,San Francisco,Internet software & services,None,13,4
+Spotter,$1.7,2/16/2022,United States,Los Angeles,Fintech,None,6,1
+Alan,$1.68,4/19/2021,France,Paris,Fintech,None,13,2
+wefox,$1.65,03-05-2019,Germany,Berlin,Fintech,Divestiture,36,3
+Hibob,$1.65,10-12-2021,Israel,Tel Aviv,Internet software & services,None,15,3
+Trader Interactive,$1.63,05-12-2021,United States,Norfolk,Other,None,15,3
+Jusfoun Big Data,$1.62,07-09-2018,China,Beijing,Data management & analytics,None,27,3
+Transcarent,$1.62,01-11-2022,United States,San Francisco,Health,None,15,1
+DealShare,$1.7,1/27/2022,India,Bengaluru,E-commerce & direct-to-consumer,None,19,4
+Zhubajie,$1.61,6/16/2015,China,Chongqing,Internet software & services,None,3,1
+solarisBank,$1.65,7/13/2021,Germany,Berlin,Fintech,None,20,5
+Infinidat,$1.6,4/29/2015,United States,Waltham,Hardware,None,6,3
+Afiniti,$1.6,4/14/2017,Bermuda,Hamilton,Artificial intelligence,None,10,3
+Cao Cao Mobility,$1.6,1/17/2018,China,Hangzhou,Auto & transportation,None,5,1
+Verkada,$1.6,1/29/2020,United States,San Mateo,Cybersecurity,None,7,3
+Clari,$2.6,03-03-2021,United States,Sunnyvale,Internet software & services,None,15,4
+Tonal,$1.6,3/31/2021,United States,San Francisco,E-commerce & direct-to-consumer,None,27,2
+Clio,$1.6,4/27/2021,Canada,Burnaby,Internet software & services,None,10,2
+SafetyCulture,$1.6,05-03-2021,Australia,Sydney,Internet software & services,None,12,6
+Extend,$1.6,5/18/2021,United States,San Francisco,Fintech,None,12,6
+Cognite,$1.5,5/19/2021,Norway,Lysaker,Data management & analytics,None,5,3
+ASAPP,$1.6,5/19/2021,United States,New York,Artificial intelligence,None,13,2
+SmartHR,$1.6,06-08-2021,Japan,Tokyo,Fintech,None,20,3
+Mercury,$1.6,07-03-2021,United States,San Francisco,Fintech,None,39,2
+HomeLight,$1.6,09-02-2021,United States,San Francisco,Fintech,None,19,5
+Truepill,$1.6,10/27/2021,United States,Hayward,Health,None,12,2
+ezCater,$1.6,04-02-2019,United States,Boston,"Supply chain, logistics, & delivery",None,21,9
+Wayflyer,$1.6,02-01-2022,Ireland,Dublin,Fintech,None,11,1
+Promasidor Holdings,$1.59,11-08-2016,South Africa,Bryanston,Consumer & retail,None,2,1
+Baiwang,$1.55,3/25/2019,China,Beijing,Fintech,None,8,1
+Iluvatar CoreX,$1.55,03-01-2021,China,Shanghai,Hardware,None,8,1
+Wenheyou,$1.55,4/17/2021,China,Hunan,Other,None,7,2
+Loom,$1.53,5/20/2021,United States,San Francisco,Internet software & services,None,15,2
+Ximalaya FM,$1.52,9/22/2017,China,Shanghai,Mobile & telecommunications,None,11,2
+Carzone,$1.52,03-01-2019,China,Jiangsu,E-commerce & direct-to-consumer,None,13,1
+Mu Sigma,$1.5,02-07-2013,United States,Northbrook,Data management & analytics,None,8,4
+TuJia,$1.5,6/17/2015,China,Beijing,Travel,Acquired,13,2
+Mofang Living,$1.5,4/13/2016,China,Shanghai,E-commerce & direct-to-consumer,None,4,1
+Gett,$1.5,5/24/2016,United Kingdom,London,Auto & transportation,None,11,9
+DT Dream,$1.5,06-08-2017,China,Hangzhou,Data management & analytics,None,5,2
+Changingedu,$1.5,10/30/2017,China,Shanghai,Edtech,None,6,1
+XiaoZhu,$1.5,11-01-2017,China,Beijing,Travel,None,12,1
+JOLLY Information Technology,$1.5,5/29/2018,China,Hangzhou,E-commerce & direct-to-consumer,None,10,1
+Yijiupi,$1.5,9/20/2018,China,Beijing,Consumer & retail,None,13,3
+Cambridge Mobile Telematics,$1.5,12/19/2018,United States,Cambridge,Mobile & telecommunications,None,1,None
+Collective Health,$1.5,6/17/2019,United States,San Francisco,Fintech,None,27,4
+Strava,$1.5,11/16/2020,United States,San Francisco,Internet software & services,None,7,6
+Zenoti,$1.5,12/15/2020,United States,Bellevue,Internet software & services,None,9,4
+K Health,$1.5,1/19/2021,United States,New York,Health,None,19,1
+Uplight,$1.5,03-03-2021,United States,Boulder,Other,None,19,1
+ID.me,$1.5,3/19/2021,United States,McLean,Cybersecurity,None,31,3
+Snapdocs,$1.5,5/25/2021,United States,San Francisco,Fintech,None,13,1
+Chipper Cash,$2,06-01-2021,United States,San Francisco,Fintech,None,15,3
+Ledger,$1.5,06-10-2021,France,Paris,Hardware,None,46,4
+Next Silicon,$1.5,6/14/2021,Israel,Tel Aviv,Hardware,None,9,1
+YunQuNa,$1.5,6/29/2021,China,Shanghai,"Supply chain, logistics, & delivery",None,10,1
+Impact,$1.5,7/13/2021,United States,Santa Barbara,Internet software & services,None,6,2
+SmartRecruiters,$1.5,7/20/2021,United States,San Francisco,Internet software & services,None,7,4
+NotCo,$1.5,7/26/2021,Chile,Santiago,Artificial Intelligence,None,18,1
+Culture Amp,$1.5,7/29/2021,Australia,Richmond,Internet software & services,None,12,4
+TaxBit,$1.5,08-04-2021,United States,Draper,Fintech,None,21,1
+Pacaso,$1.5,3/24/2021,United States,Cincinnati,Fintech,None,16,2
+1047 Games,$1.5,9/14/2021,United States,Zephyr Cove,Internet software & services,None,10,1
+Matillion,$1.5,9/15/2021,United Kingdom,Altrincham,Data management & analytics,None,8,2
+Persona,$1.5,9/15/2021,United States,San Francisco,Cybersecurity,None,6,1
+Whatnot,$1.5,9/16/2021,United States,Marina del Rey,E-commerce & direct-to-consumer,None,22,1
+Ascend Money,$1.5,9/27/2021,Thailand,Bangkok,Fintech,None,3,1
+Andela,$1.5,9/29/2021,United States,New York,Internet software & services,None,29,4
+Built,$1.5,9/30/2021,United States,Nashville,Internet software & services,None,22,3
+candy.com,$1.5,10/21/2021,United States,New York,Fintech,None,9,1
+Devo,$1.5,10/26/2021,United States,Cambridge,Data management & analytics,None,10,3
+CoinList,$1.5,10/15/2021,United States,San Francisco,Fintech,None,21,2
+Lusha,$1.5,11-10-2021,United States,New York,Internet software & services,None,2,1
+CureFit,$1.5,11-10-2021,India,Bengaluru,Health,None,42,5
+Solugen,$1.5,09-10-2021,United States,Houston,Other,None,20,1
+Olist,$1.5,12/15/2021,Brazil,Curitiba,E-commerce & direct-to-consumer,None,13,2
+Paradox,$1.5,12/27/2021,United States,Scottsdale,Internet software & services,None,14,1
+Airbyte,$1.5,12/17/2021,United States,San Francisco,Internet software & services,None,14,1
+StoreDot,$1.5,01-04-2022,Israel,Herzliya,Other,None,14,4
+Il Makiage,$1.5,01-10-2022,United States,New York,E-commerce & direct-to-consumer,None,5,1
+Spendesk,$1.5,1/18/2022,France,Paris,Fintech,None,14,2
+Veriff,$1.5,1/26/2022,Estonia,Tallinn,Artificial intelligence,None,15,2
+Athelas,$1.5,1/31/2022,United States,Mountain View,Health,None,11,1
+ElasticRun,$1.5,02-07-2022,India,Pune,"Supply chain, logistics, & delivery",None,9,4
+Veho,$1.5,12/21/2021,United States,Boulder,"Supply chain, logistics, & delivery",None,12,2
+Temporal,$1.5,2/16/2022,United States,Bellevue,Internet software & services,None,5,1
+Fabric,$1.5,2/24/2022,United States,Bellevue,E-commerce & direct-to-consumer,None,11,2
+Yipin Shengxian,$1.49,03-11-2019,China,Hefei,E-commerce & direct-to-consumer,None,4,None
+Bordrin Motors,$1.48,06-03-2019,China,Shanghai,Auto & transportation,None,7,None
+Coocaa,$1.45,3/16/2018,China,Shenzhen,Hardware,None,4,3
+Juma Peisong,$1.45,11/26/2018,China,Chengdu,"Supply chain, logistics, & delivery",None,7,None
+Ouyeel,$1.45,6/27/2019,China,Shanghai,Internet software & services,None,18,None
+Gymshark,$1.45,8/14/2020,United Kingdom,Solihull,E-commerce & direct-to-consumer,None,1,1
+Zeta,$1.45,5/24/2021,United States,San Francisco,Fintech,None,5,3
+M1 Finance,$1.45,7/14/2021,United States,Chicago,Fintech,None,7,3
+Aleo,$1.45,02-07-2022,United States,San Francisco,Cybersecurity,None,18,1
+Einride,$1.44,12/31/2021,Sweden,Stockholm,Auto & transportation,None,20,4
+Justworks,$1.43,1/28/2020,United States,New York,Internet software & services,None,9,3
+SonderMind,$1.42,7/28/2021,United States,Denver,Health,None,18,None
+Papa,$1.4,11-04-2021,United States,Miami,Health,None,14,1
+Figment,$1.4,12/20/2021,Canada,Toronto,Internet software & services,None,24,2
+Envoy,$1.4,01-11-2022,United States,San Francisco,Internet software & services,None,15,2
+Deliverect,$1.4,1/24/2022,Belgium,Ghent,Fintech,None,8,1
+SparkCognition,$1.4,1/25/2022,United States,Austin,Artificial intelligence,None,34,4
+Firebolt,$1.4,1/26/2022,Israel,Tel Aviv,Data management & analytics,None,9,1
+Koudai,$1.4,10/23/2014,China,Beijing,E-commerce & direct-to-consumer,None,11,1
+Symphony,$1.4,5/16/2017,United States,New York,Fintech,None,26,4
+Yidian Zixun,$1.4,10/17/2017,China,Beijing,Mobile & telecommunications,None,2,None
+Cabify,$1.4,1/22/2018,Spain,Madrid,Auto & transportation,None,22,4
+Hive Box,$1.4,1/23/2018,China,Shenzhen,"Supply chain, logistics, & delivery",None,16,2
+Deezer,$1.4,08-02-2018,France,Paris,Internet software & services,Acquired,11,3
+Away,$1.4,5/15/2019,United States,New York,E-commerce & direct-to-consumer,None,11,4
+Kong,$1.4,12/31/2020,United States,San Francisco,Internet software & services,None,17,3
+Epidemic Sound,$1.4,03-11-2021,Sweden,Stockholm,Internet software & services,None,9,6
+Yotpo,$1.4,3/18/2021,United States,New York,Internet software & services,None,20,3
+Rebel Foods,$1.4,10-07-2021,India,Pune,E-commerce & direct-to-consumer,None,18,7
+Coda,$1.4,07-08-2021,United States,Mountain View,Internet software & services,None,18,7
+Five Star Business Finance,$1.4,3/26/2021,India,Chennai,Other,None,7,4
+Stash,$1.4,02-03-2021,United States,New York,Fintech,None,13,6
+Phenom People,$1.4,04-07-2021,United States,Ambler,Internet software & services,None,13,3
+GupShup,$1.4,04-08-2021,United States,San Francisco,Internet software & services,None,13,3
+Degreed,$1.4,4/13/2021,United States,Pleasanton,Edtech,None,14,3
+Astranis Space Technologies,$1.4,4/14/2021,United States,San Francisco,Mobile & telecommunications,None,26,2
+Scalable Capital,$1.4,06-08-2021,Germany,Munich,Fintech,None,10,4
+VideoAmp,$1.4,10/21/2021,United States,Los Angeles,Internet software & services,None,18,3
+Panther Labs,$1.4,12-02-2021,United States,San Francisco,Cybersecurity,None,8,1
+Salt Security,$1.4,02-10-2022,United States,Palo Alto,Cybersecurity,None,14,2
+Tripledot Studios,$1.4,2/14/2022,United Kingdom,London,Mobile & telecommunications,None,5,2
+Veepee,$1.38,7/20/2007,France,La Plaine Saint-Denis,E-commerce & direct-to-consumer,None,5,2
+Neon,$1.38,2/14/2022,Brazil,Sao Paulo,Fintech,None,16,2
+DeepBlue Technology,$1.35,4/16/2018,China,Shanghai,Artificial intelligence,None,10,None
+Klook,$1.35,08-07-2018,Hong Kong,Central,Travel,None,14,3
+Yaoshibang,$1.35,6/15/2021,China,Guangzhou,Health,None,15,2
+At-Bay,$1.35,7/27/2021,United States,Mountain View,Fintech,None,11,2
+Alloy,$1.35,9/30/2021,United States,New York,Fintech,None,12,1
+Epirus,$1.35,2/14/2022,United States,Hawthorne,Other,None,18,1
+Signifyd,$1.34,4/15/2021,United States,San Jose,Fintech,None,19,7
+Motorway,$1.33,11/29/2021,United Kingdom,London,E-commerce & direct-to-consumer,None,10,1
+RIDI,$1.33,2/28/2022,South Korea,Seoul,E-commerce & direct-to-consumer,None,14,5
+Flipboard,$1.32,7/22/2015,United States,Palo Alto,Internet software & services,None,19,5
+Grove Collaborative,$1.32,09-06-2019,United States,San Francisco,E-commerce & direct-to-consumer,None,21,5
+GPclub,$1.32,10/22/2018,South Korea,Seoul,Other,None,1,1
+Tongdun Technology,$1.32,4/25/2019,China,Hangzhou,Cybersecurity,None,17,5
+Athletic Greens,$1.32,1/25/2022,United States,New York,Health,None,33,1
+Unisound,$1.31,7/19/2018,China,Beijing,Artificial intelligence,None,15,3
+Alzheon,$1.31,9/30/2020,United States,Framingham,Health,None,4,2
+HeartFlow,$1.3,12-04-2017,United States,Redwood City,Health,None,12,9
+Trax,$1.3,7/22/2019,Singapore,Artificial intelligence,"Hopu Investment Management, Boyu Capital, DC Thomson Ventures",None,10,5
+You & Mr Jones,$1.3,11/19/2019,United States,New York,Other,None,10,5
+InSightec,$1.3,03-06-2020,Israel,Tirat Carmel,Health,None,11,3
+Everly Health,$1.3,12-03-2020,United States,Austin,E-commerce & direct-to-consumer,None,18,3
+Manner,$1.3,12/24/2020,China,Shanghai,Other,None,6,2
+TalkingData,$1.3,01-06-2021,China,Beijing,Mobile & telecommunications,None,7,1
+DistroKid,$1.3,8/16/2021,United States,New York,Internet software & services,None,3,1
+Konfio,$1.3,9/29/2021,Mexico,Mexico City,Fintech,None,16,3
+Betterment,$1.3,9/29/2021,United States,New York,Fintech,None,20,7
+Flock Freight,$1.3,10/20/2021,United States,Encinitas,"Supply chain, logistics, & delivery",None,9,2
+YugaByte,$1.3,10/28/2021,United States,Sunnyvale,Data management & analytics,None,10,3
+Lukka,$1.3,1/14/2022,United States,New York,Fintech,None,13,4
+TravelPerk,$1.3,01-12-2022,Spain,Barcelona,Travel,None,15,3
+iTrustCapital,$1.3,01-11-2022,United States,Long Beach,Fintech,None,2,1
+Domestika,$1.3,1/27/2022,United States,Berkeley,Internet software & services,None,2,2
+CoinTracker,$1.3,1/27/2022,United States,San Francisco,Fintech,None,17,1
+Loadsmart,$1.3,02-01-2022,United States,New York,"Supply chain, logistics, & delivery",None,10,2
+TUNGEE,$1.3,12/15/2021,China,Guangzhou,Artificial Intelligence,None,9,1
+Starry,$1.29,07-03-2018,United States,Boston,Mobile & telecommunications,None,7,4
+Intercom,$1.28,3/27/2018,United States,San Francisco,Internet software & services,None,20,5
+OVO Energy,$1.28,2/14/2019,United Kingdom,Bristol,Other,None,2,2
+Huisuanzhang,$1.28,5/24/2021,China,Beijing,Fintech,None,15,3
+WTOIP,$1.27,04-08-2018,China,Guangzhou,Internet software & services,None,11,1
+BigID,$1.25,12/16/2020,United States,New York,Cybersecurity,None,19,4
+Kuaikan Manhua,$1.25,12-01-2017,China,Beijing,Internet software & services,None,14,3
+Marshmallow,$1.25,09-08-2021,United Kingdom,London,Fintech,None,6,2
+Honor Technology,$1.25,10-05-2021,United States,San Francisco,Internet software & services,None,53,4
+Mythical Games,$1.25,11-04-2021,United States,Sherman Oaks,Internet software & services,None,31,1
+Incode Technologies,$1.25,12-07-2021,United States,San Francisco,Cybersecurity,None,12,1
+Tackle.io,$1.25,12/21/2021,United States,Boise,Internet software & services,None,4,1
+Flipdish,$1.25,1/13/2022,Ireland,Dublin,Internet software & services,None,6,1
+Route,$1.25,1/21/2022,United States,Lehi,"Supply chain, logistics, & delivery",None,11,1
+CaptivateIQ,$1.25,1/26/2022,United States,San Francisco,Fintech,None,8,1
+BrewDog,$1.24,04-10-2017,United Kingdom,Aberdeen,Consumer & retail,None,4,1
+Enflame,$1.24,01-05-2021,China,Shanghai,Hardware,None,18,1
+EQRx,$1.23,01-11-2021,United States,Cambridge,Health,None,8,1
+Nexii,$1.23,09-08-2021,Canada,Vancouver,Other,None,4,2
+GalaxySpace,$1.22,11/17/2020,China,Beijing,Mobile & telecommunications,None,12,3
+Spiber,$1.22,09-08-2021,Japan,Tsuruoka,Other,None,22,2
+Insider,$1.22,2/28/2022,Turkey,Istanbul,Internet software & services,None,9,3
+Yiguo,$1.2,11-09-2016,China,Shanghai,"Supply chain, logistics, & delivery",None,12,1
+Fair,$1.2,12/20/2018,United States,Santa Monica,Auto & transportation,None,None,1
+Glossier,$1.2,3/19/2019,United States,New York,Consumer & retail,None,16,3
+Workhuman,$1.2,6/23/2020,Ireland,Dublin,Internet software & services,None,3,3
+Qumulo,$1.2,7/16/2020,United States,Seattle,Data management & analytics,None,12,5
+Tealium,$1.2,02-03-2021,United States,San Diego,Internet software & services,None,15,8
+Public,$1.2,2/17/2021,United States,New York,Fintech,None,15,8
+Axonius,$1.2,03-01-2021,United States,New York,Cybersecurity,None,14,1
+Savage X Fenty,$1.2,3/16/2021,United States,El Segundo,E-commerce & direct-to-consumer,None,9,1
+Pipa Coding,$1.2,3/25/2021,China,Beijing,Edtech,None,11,2
+Pilot.com,$1.2,3/26/2021,United States,San Francisco,Fintech,None,1,None
+Aibee,$1.2,4/13/2021,China,Beijing,Artificial intelligence,None,22,3
+Cava Group,$1.3,4/27/2021,United States,Washington,Other,None,8,3
+Vectra Networks,$1.2,4/29/2021,United States,San Jose,Artificial intelligence,None,15,4
+Ada Support,$1.2,05-07-2021,Canada,Toronto,Artificial intelligence,None,11,1
+Inari,$1.2,05-12-2021,United States,Cambridge,Other,None,10,2
+Alation,$1.2,06-03-2021,United States,Redwood City,Internet software & services,None,16,4
+Forto,$1.2,6/21/2021,Germany,Berlin,"Supply chain, logistics, & delivery",None,20,3
+SmartMore,$1.2,6/24/2021,China,Shenzhen,Artificial Intelligence,None,10,1
+Rohlik,$1.2,07-01-2021,Czech Republic,Prague,"Supply chain, logistics, & delivery",None,10,1
+Prime Medicine,$1.2,7/13/2021,United States,Cambridge,Health,None,11,1
+FloQast,$1.2,7/21/2021,United States,Los Angeles,Fintech,None,11,3
+MindTickle,$1.2,08-03-2021,United States,San Francisco,Internet software & services,None,9,5
+UpGrad,$1.2,08-09-2021,India,Mumbai,Edtech,None,5,3
+DailyPay,$1.2,5/18/2021,United States,New York,Fintech,None,8,3
+Oda,$1.2,06-02-2021,Norway,Oslo,E-commerce & direct-to-consumer,None,10,6
+Offchain Labs,$1.2,8/31/2021,United States,Princeton,Internet software & services,None,12,1
+Copado,$1.2,9/13/2021,United States,Chicago,Data management & analytics,None,10,3
+Gem,$1.2,9/28/2021,United States,San Francisco,Internet software & services,None,5,1
+CarDekho,$1.2,10/13/2021,India,Jaipur,E-commerce & direct-to-consumer,None,22,6
+MyGlamm,$1.2,11-10-2021,India,Mumbai,E-commerce & direct-to-consumer,None,18,6
+AgentSync,$1.2,12-07-2021,United States,Denver,Fintech,None,12,3
+Pristyn Care,$1.4,12-07-2021,India,Gurugram,Health,None,16,2
+Jokr,$1.2,12-02-2021,United States,New York,E-commerce & direct-to-consumer,None,15,1
+Merama,$1.2,12-09-2021,Mexico,Mexico City,E-commerce & direct-to-consumer,None,12,3
+SeekOut,$1.2,01-12-2022,United States,Bellevue,Internet software & services,None,4,2
+BigPanda,$1.2,01-12-2022,United States,Mountain View,Artificial intelligence,None,11,4
+Phantom,$1.2,1/31/2022,United States,San Francisco,Fintech,None,9,1
+LivSpace,$1.2,02-08-2022,India,Bengaluru,E-commerce & direct-to-consumer,None,21,3
+Xpressbees,$1.2,02-09-2022,India,Pune,"Supply chain, logistics, & delivery",None,13,3
+Helium Systems,$1.2,2/22/2022,United States,San Francisco,Internet software & services,None,16,3
+CloudBees,$1.15,12-09-2021,United States,San Jose,Data management & analytics,None,11,5
+L&P Cosmetic,$1.19,01-01-2016,South Korea,Seoul,Consumer & retail,None,4,4
+Mininglamp Technology,$1.19,3/27/2019,China,Beijing,Artificial intelligence,None,19,None
+Luoji Siwei,$1.18,7/20/2017,China,Beijing,Edtech,None,8,2
+Yimidida,$1.17,1/14/2019,China,Shanghai,"Supply chain, logistics, & delivery",None,14,2
+Modern Health,$1.17,02-11-2021,United States,San Francisco,Health,None,16,1
+IRL,$1.17,6/15/2021,United States,San Francisco,Internet software & services,None,12,2
+Tuhu,$1.16,9/15/2018,China,Shanghai,Auto & transportation,None,19,2
+SVOLT,$1.16,06-08-2020,China,Changzhou,Auto & transportation,None,30,2
+LifeMiles,$1.15,7/13/2015,Colombia,Bogota,Other,None,1,1
+Venafi,$1.15,12-10-2020,United States,Salt Lake City,Cybersecurity,None,13,4
+Guideline,$1.15,6/16/2021,United States,San Mateo,Fintech,None,14,4
+Rebellion Defense,$1.15,9/16/2021,United States,Washington DC,Artificial intelligence,None,8,1
+Elemy,$1.15,10-06-2021,United States,San Francisco,Health,None,1,None
+Happy Money,$1.15,02-08-2022,United States,Tustin,Fintech,None,13,6
+Doctolib,$1.14,3/19/2019,France,Paris,Health,None,12,3
+STORD,$1.13,9/13/2021,United States,Atlanta,"Supply chain, logistics, & delivery",None,20,2
+TELD,$1.12,12/16/2019,China,Qingdao,Fintech,None,9,1
+TangoMe,$1.1,3/20/2014,United States,Mountain View,Mobile & telecommunications,None,15,4
+AppDirect,$1.1,10-07-2015,United States,San Francisco,E-commerce & direct-to-consumer,Acquired,10,5
+Juanpi,$1.1,4/14/2016,China,Wuhan,E-commerce & direct-to-consumer,None,7,None
+OVH,$1.1,8/15/2016,France,Roubaix,Other,None,10,1
+Eat Just,$1.1,11/30/2017,United States,San Francisco,Consumer & retail,None,34,6
+GetYourGuide,$1.1,5/16/2019,Germany,Berlin,Travel,None,22,3
+Ivalua,$1.1,5/21/2019,United States,Redwood City,Fintech,None,4,1
+Sisense,$1.1,01-09-2020,United States,New York,Data management & analytics,None,10,5
+Pharmapacks,$1.1,11-12-2020,United States,Islandia,E-commerce & direct-to-consumer,None,10,1
+Sennder,$1.1,1/14/2021,Germany,Berlin,"Supply chain, logistics, & delivery",None,14,3
+Nexthink,$1.1,02-08-2021,Switzerland,Prilly,Data management & analytics,None,13,2
+Zego,$1.1,03-09-2021,United Kingdom,London,Fintech,None,9,2
+Rightway,$1.1,3/30/2021,United States,New York,Health,None,4,1
+Sunbit,$1.1,5/20/2021,United States,Los Angeles,Fintech,None,8,1
+Qingting FM,$1.1,06-02-2021,China,Shanghai,Internet software & services,None,16,2
+G2,$1.1,6/22/2021,United States,Chicago,Internet software & services,None,20,6
+Hailo,$1,6/23/2021,Israel,Tel Aviv,Artificial intelligence,None,18,2
+People.ai,$1.1,08-11-2021,United States,San Francisco,Internet software & services,None,18,2
+CoinDCX,$1.1,08-10-2021,India,Maharashtra,Fintech,None,17,1
+Carousell,$1.1,9/15/2021,Singapore,E-commerce & direct-to-consumer,"500 Global, Rakuten Ventures, Golden Gate Ventures",None,16,7
+apna,$1.1,9/15/2021,India,Bengaluru,Internet software & services,None,9,2
+Karat,$1.1,10/13/2021,United States,Seattle,Internet software & services,None,8,2
+Enpal,$1.1,10/18/2021,Germany,Berlin,Internet software & services,None,19,2
+Acko General Insurance,$1.1,10/18/2021,India,Bengaluru,Fintech,None,22,4
+Daily Harvest,$1.1,11/16/2021,United States,New York,E-commerce & direct-to-consumer,None,15,2
+The Bank of London,$1.1,11/30/2021,United Kingdom,London,Fintech,None,3,1
+Fundbox,$1.1,11/30/2021,United States,San Francisco,Fintech,Acq,34,4
+Turing,$1.1,12/20/2021,United States,Palo Alto,Internet software & services,None,91,1
+GlobalBees,$1.1,12/28/2021,India,New Delhi,E-commerce & direct-to-consumer,None,8,1
+LEAD School,$1.1,1/13/2022,India,Andheri,Edtech,None,6,1
+eSentire,$1.1,2/22/2022,Canada,Waterloo,Cybersecurity,None,12,2
+Beyond Identity,$1.1,2/22/2022,United States,New York,Cybersecurity,None,7,1
+Nxin,$1.08,9/18/2018,China,Beijing,Internet software & services,None,5,1
+UISEE Technology,$1.08,1/25/2021,China,Beijing,"Supply chain, logistics, & delivery",None,15,1
+56PINGTAI,$1.08,1/25/2021,China,Shanghai,"Supply chain, logistics, & delivery",None,11,1
+Rubicon,$1.07,8/25/2017,United States,Atlanta,Other,None,17,7
+Radius Payment Solutions,$1.07,11/27/2017,United Kingdom,Crewe,Fintech,None,1,1
+Rivigo,$1.07,07-11-2019,India,Gurgaon,"Supply chain, logistics, & delivery",None,7,7
+Mamaearth,$1.07,12/28/2021,India,Gurgaon,E-commerce & direct-to-consumer,None,11,3
+Jiuxian,$1.05,7/30/2015,China,Beijing,E-commerce & direct-to-consumer,None,8,3
+Instabase,$1.05,10/21/2019,United States,San Francisco,Data management & analytics,None,9,3
+Sendbird,$1.05,04-06-2021,United States,San Mateo,Mobile & telecommunications,None,16,2
+Density,$1.05,11-10-2021,United States,San Francisco,Hardware,None,22,2
+Mixpanel,$1.05,11/15/2021,United States,San Francisco,Internet software & services,None,10,3
+Aprogen,$1.04,5/31/2019,South Korea,Seongnam-Si,Health,None,2,3
+OrCam Technologies,$1.03,2/20/2018,Israel,Jerusalem,Artificial intelligence,None,5,2
+Leap Motor,$1.01,11/20/2018,China,Hangzhou,Auto & transportation,None,20,1
+Lookout,$1,10-10-2013,United States,San Francisco,Cybersecurity,None,26,7
+Snapdeal,$1,5/21/2014,India,New Delhi,E-commerce & direct-to-consumer,Divestiture,25,7
+TechStyle Fashion Group,$1,8/29/2014,United States,El Segundo,E-commerce & direct-to-consumer,None,11,5
+InMobi,$1,12-02-2014,India,Bengaluru,Mobile & telecommunications,None,8,4
+LinkSure Network,$1,01-01-2015,China,Shanghai,Mobile & telecommunications,None,2,1
+Red Ventures,$1,01-07-2015,United States,Fort Mill,Other,None,2,1
+BeiBei,$1,1/22/2015,China,Hangzhou,E-commerce & direct-to-consumer,None,6,1
+Lamabang,$1,03-06-2015,China,Shenzhen,E-commerce & direct-to-consumer,None,6,1
+JimuBox,$1,4/21/2015,China,Beijing,Fintech,None,10,None
+BenevolentAI,$1,06-02-2015,United Kingdom,London,Artificial intelligence,None,7,4
+FXiaoKe,$1,07-02-2015,China,Beijing,Mobile & telecommunications,None,14,2
+Vox Media,$1,08-12-2015,United States,Washington,Internet software & services,None,9,8
+Mia.com,$1,09-08-2015,China,Beijing,E-commerce & direct-to-consumer,None,6,1
+58 Daojia,$1,10-12-2015,China,Beijing,Internet software & services,None,3,1
+Womai,$1,10-12-2015,China,Beijing,E-commerce & direct-to-consumer,None,5,1
+HuJiang,$1,10/29/2015,China,Shanghai,Edtech,None,3,1
+iTutorGroup,$1,11/18/2015,China,Shanghai,Edtech,None,10,1
+MindMaze,$1,1/28/2016,Switzerland,Lausanne,Health,None,5,3
+iCarbonX,$1,04-12-2016,China,Shenzhen,Artificial intelligence,Acq,3,1
+SMS Assist,$1,06-07-2016,United States,Chicago,Internet software & services,None,3,3
+Kendra Scott,$1,12/21/2016,United States,Austin,Consumer & retail,None,2,2
+Mobvoi,$1,04-06-2017,China,Beijing,Consumer & retail,None,7,1
+Zhuan Zhuan,$1,4/18/2017,China,Beijing,E-commerce & direct-to-consumer,None,7,1
+Modernizing Medicine,$1,05-10-2017,United States,Boca Raton,Health,None,6,4
+Zhaogang,$1,6/29/2017,China,Shanghai,E-commerce & direct-to-consumer,None,9,2
+DianRong,$1,08-02-2017,China,Shanghai,E-commerce & direct-to-consumer,None,16,1
+Cell C,$1,08-07-2017,South Africa,Midrand,Mobile & telecommunications,None,2,2
+YH Global,$1,9/21/2017,China,Shenzhen,"Supply chain, logistics, & delivery",None,8,1
+Revolution Precrafted,$1,10/23/2017,Philippines,Manila,Other,None,2,2
+WeLab,$1,11-08-2017,Hong Kong,Fintech,"Sequoia Capital China, ING, Alibaba Entrepreneurs Fund",None,13,3
+Maimai,$1,11/15/2017,China,Beijing,Mobile & telecommunications,None,5,4
+Dxy.cn,$1,04-10-2018,China,Hangzhou,Health,None,5,1
+Orbbec Technology,$1,5/21/2018,China,Shenzhen,Hardware,None,8,1
+HMD Global,$1,5/21/2018,Finland,Espoo,Mobile & telecommunications,None,6,1
+Huike Group,$1,5/24/2018,China,Beijing,Edtech,None,4,1
+China Cloud,$1,06-11-2018,China,Wuxi,Hardware,None,31,1
+LinkDoc Technology,$1,07-05-2018,China,Beijing,Health,None,10,1
+MediaMath,$1,07-10-2018,United States,New York,Internet software & services,None,14,6
+Movile,$1,07-12-2018,Brazil,Sao Paulo,Mobile & telecommunications,Acquired,4,None
+Kuaigou Dache,$1,7/13/2018,China,Tianjin,"Supply chain, logistics, & delivery",None,9,1
+Pat McGrath Labs,$1,7/16/2018,United States,New York,Consumer & retail,None,2,1
+Wacai,$1,7/18/2018,China,Hangzhou,Mobile & telecommunications,Corporate,12,2
+FlashEx,$1,8/27/2018,China,Beijing,"Supply chain, logistics, & delivery",None,22,1
+Banma Network Technologies,$1,9/13/2018,China,Shanghai,Auto & transportation,None,5,1
+Tresata,$1,10-10-2018,United States,Charlotte,Fintech,None,2,1
+Momenta,$1,10/17/2018,China,Beijing,Artificial intelligence,None,28,1
+Hosjoy,$1,10/18/2018,China,Nanjing,E-commerce & direct-to-consumer,None,7,1
+Omio,$1,10/23/2018,Germany,Berlin,Travel,None,22,3
+TERMINUS Technology,$1,10/25/2018,China,Beijing,Hardware,None,8,4
+BitFury,$1,11-06-2018,Netherlands,Amsterdam,Hardware,Acquired,22,3
+iFood,$1,11/13/2018,Brazil,Osasco,"Supply chain, logistics, & delivery",None,6,2
+Geek+,$1,11/21/2018,China,Beijing,Hardware,None,9,1
+REEF Technology,$1,12-10-2018,United States,Miami,"Supply chain, logistics, & delivery",None,9,1
+Globality,$1,1/22/2019,United States,Menlo Park,Artificial intelligence,None,20,3
+Ynsect,$1,2/21/2019,France,Evry,Other,None,20,1
+Intellifusion,$1,3/22/2019,China,Shenzhen,Artificial intelligence,None,36,1
+Liquid,$1,04-03-2019,Japan,Tokyo,Fintech,None,8,2
+Poizon,$1,4/29/2019,China,Shanghai,Mobile & telecommunications,None,5,1
+VTS,$1,05-07-2019,United States,New York,Internet software & services,None,17,5
+SITECH DEV,$1,5/16/2019,China,Guiyang,Other,None,4,1
+KnowBox,$1,5/30/2019,China,Beijing,Edtech,None,13,2
+Yanolja,$1,06-10-2019,South Korea,Seoul,Travel,None,11,4
+Meero,$1,6/18/2019,France,Paris,Artificial intelligence,None,10,3
+SumUp,$1,7/16/2019,United Kingdom,London,Fintech,Acquired,18,2
+Ibotta,$1,08-06-2019,United States,Denver,Fintech,None,19,3
+C2FO,$1,08-07-2019,United States,Leawood,Fintech,None,14,7
+Numbrs,$1,8/22/2019,Switzerland,Zurich,Fintech,None,6,2
+EBANX,$1,10/16/2019,Brazil,Curitiba,Fintech,None,3,1
+KK Group,$3,10/23/2019,China,Dongguan,E-commerce & direct-to-consumer,None,15,2
+Alto Pharmacy,$1,1/30/2020,United States,San Francisco,Health,None,11,2
+Hotmart,$1,3/17/2020,Netherlands,Amsterdam,E-commerce & direct-to-consumer,Acquired,6,1
+Emerging Markets Property Group,$1,4/28/2020,United Arab Emirates,Dubai,Other,None,3,1
+Quizlet,$1,5/13/2020,United States,San Francisco,Edtech,None,8,3
+Orca Bio,$1,6/17/2020,United States,Menlo Park,Health,None,7,1
+Newlink Group,$1,07-10-2020,China,Beijing,E-commerce & direct-to-consumer,None,30,1
+Infobip,$1,7/30/2020,Croatia,Vodnjan,Mobile & telecommunications,None,3,1
+Zwift,$1,9/16/2020,United States,Long Beach,E-commerce & direct-to-consumer,None,13,2
+Playco,$1,9/21/2020,Japan,Tokyo,Other,None,9,1
+Socar,$1,10/16/2020,South Korea,Jeju-do,Auto & transportation,None,9,1
+Gousto,$1.7,11-03-2020,United Kingdom,London,"Supply chain, logistics, & delivery",None,16,4
+Boom Supersonic,$1,12/16/2020,United States,Englewood,Other,None,22,2
+Qualia,$1,12/21/2020,United States,San Francisco,Fintech,None,7,3
+Quantum Metric,$1,01-07-2021,United States,Colorado Springs,Data management & analytics,None,6,2
+News Break,$1,01-07-2021,United States,Mountain View,Internet software & services,None,5,3
+MadeiraMadeira,$1,01-07-2021,Brazil,Parana,E-commerce & direct-to-consumer,None,10,2
+PPRO,$1,1/19/2021,United Kingdom,London,Fintech,None,9,1
+Splashtop,$1,1/27/2021,United States,San Jose,Internet software & services,None,18,4
+DriveNets,$1,1/27/2021,Israel,Ra'anana,Internet software & services,None,10,1
+Flash Express,$1,02-01-2021,Thailand,Bangkok,"Supply chain, logistics, & delivery",None,10,2
+Axiom Space,$1,2/16/2021,United States,Houston,Other,None,12,1
+Locus Robotics,$1,2/17/2021,United States,Wilmington,Hardware,None,8,3
+Standard,$1,2/17/2021,United States,San Francisco,Artificial intelligence,None,11,3
+Sentry,$1,2/18/2021,United States,San Francisco,Other,None,5,3
+WeBull,$1,2/18/2021,China,Changsha,Fintech,None,7,2
+Skydio,$1,2/25/2021,United States,Redwood City,"Supply chain, logistics, & delivery",None,12,4
+Newsela,$1,2/25/2021,United States,New York,Internet software & services,None,32,3
+Aqua Security,$1,03-10-2021,Israel,Ramat Gan,Cybersecurity,None,9,3
+PatSnap,$1,3/16/2021,Singapore,Internet software & services,"Sequoia Capital China, Shunwei Capital Partners, Qualgro",None,10,3
+Evidation,$1,3/22/2021,United States,San Mateo,Health,None,15,4
+Sidecar Health,$1,1/26/2021,United States,El Segundo,Fintech,None,10,1
+Feedzai,$1,3/24/2021,United States,San Mateo,Artificial intelligence,None,10,3
+Yunxuetang,$1,3/29/2021,China,Suzhou,Edtech,None,9,1
+Cameo,$1,3/30/2021,United States,Chicago,Internet software & services,None,20,2
+Fetch Rewards,$1,3/31/2021,United States,Madison,E-commerce & direct-to-consumer,None,12,3
+Hyperchain,$1,04-11-2021,China,Hangzhou,Fintech,None,14,2
+The Zebra,$1,04-12-2021,United States,Austin,E-commerce & direct-to-consumer,None,11,5
+Clearcover,$1,4/13/2021,United States,Chicago,Fintech,None,10,2
+Groq,$1,4/14/2021,United States,Mountain View,Artificial intelligence,None,14,3
+Fiture,$1,4/14/2021,China,Chengdu,Health,None,15,1
+Injective Protocol,$1,4/20/2021,United States,New York,Fintech,None,12,1
+Sift,$1,4/22/2021,United States,San Francisco,Artificial intelligence,None,20,4
+SaltPay,$1,4/23/2021,United Kingdom,London,Fintech,None,20,4
+Capsule,$1,4/28/2021,United States,New York,Health,None,11,3
+MOLOCO,$1.5,4/29/2021,United States,Redwood City,Artificial intelligence,None,8,3
+Mux,$1,4/30/2021,United States,San Francisco,Internet software & services,None,20,2
+XForcePlus,$1,06-01-2021,China,Shanghai,Internet software & services,None,12,2
+Firefly Aerospace,$1.1,05-04-2021,United States,Cedar Park,Other,None,12,3
+HoneyBook,$1.1,05-04-2021,United States,San Francisco,Internet software & services,None,23,5
+Shift Technology,$1,05-05-2021,France,Paris,Artificial intelligence,None,11,3
+TensTorrent,$1,05-05-2021,Canada,Toronto,Artificial intelligence,None,4,1
+Zihaiguo,$1,05-06-2021,China,Chongqing,Consumer & retail,None,5,2
+Forte Labs,$1,05-12-2021,United States,San Francisco,Fintech,None,5,2
+Axtria,$1,5/13/2021,United States,Berkeley Heights,Data management & analytics,None,9,3
+Amount,$1,5/17/2021,United States,Chicago,Fintech,None,9,2
+Vise,$1,5/18/2021,United States,New York,Fintech,None,22,1
+Printful,$1,5/24/2021,United States,Charlotte,Other,None,22,1
+Matrixport,$1.05,06-01-2021,Singapore,Fintech,"Dragonfly Captial, Qiming Venture Partners, DST Global",None,22,1
+Shippo,$1,06-02-2021,United States,San Francisco,"Supply chain, logistics, & delivery",None,16,6
+Thirty Madison,$1,06-02-2021,United States,New York,Health,None,2,1
+LetsGetChecked,$1,06-07-2021,Ireland,Dublin,Health,None,10,2
+EcoFlow,$1,06-10-2021,China,Shenzhen,Hardware,None,13,1
+Carro,$1,6/14/2021,Singapore,E-commerce & direct-to-consumer,"SingTel Innov8, Alpha JWC Ventures, Golden Gate Ventures",None,31,4
+Tractable,$1,6/16/2021,United Kingdom,London,Artificial intelligence,None,10,3
+Bringg,$1,6/16/2021,Israel,Tel Aviv,"Supply chain, logistics, & delivery",None,14,3
+Claroty,$1,6/17/2021,United States,New York,Cybersecurity,None,22,3
+JoyTunes,$1,6/21/2021,Israel,Tel Aviv,Edtech,None,10,3
+Aircall,$1,6/23/2021,United States,New York,Internet software & services,None,15,3
+SmartAsset,$1,6/24/2021,United States,New York,Fintech,None,17,4
+Morning Consult,$1,06-08-2021,United States,Washington DC,Internet software & services,None,3,2
+Visier,$1,6/29/2021,Canada,Vancouver,Internet software & services,None,5,3
+ShipBob,$1,6/29/2021,United States,Chicago,"Supply chain, logistics, & delivery",None,13,3
+Blinkit,$1.01,6/30/2021,India,Gurgaon,"Supply chain, logistics, & delivery",None,9,9
+Kitopi,$1,07-01-2021,United Arab Emirates,Dubai,"Supply chain, logistics, & delivery",None,17,1
+bolttech,$1,07-01-2021,Singapore,Fintech,"Mundi Ventures, Doqling Capital Partners, Activant Capital",None,17,1
+MobileCoin,$1,07-07-2021,United States,San Francisco,Fintech,None,12,1
+Lunar,$1,07-12-2021,Denmark,Aarhus,Fintech,None,18,1
+Amperity,$1,7/13/2021,United States,Seattle,Artificial intelligence,None,15,3
+Remote,$1,7/13/2021,United States,San Francisco,Fintech,None,15,3
+Pantheon Systems,$1,7/13/2021,United States,San Francisco,Internet software & services,None,1,None
+Xiaobing,$1,07-12-2021,China,Beijing,Fintech,None,9,1
+Carson Group,$1,7/14/2021,United States,Lincoln,Fintech,None,9,1
+GO1,$1,7/19/2021,Australia,Brisbane,Internet software & services,None,23,3
+Interos,$1,7/22/2021,United States,Arlington,Fintech,None,6,1
+BlackBuck,$1,7/22/2021,India,Bengaluru,"Supply chain, logistics, & delivery",None,20,7
+NIUM,$1,7/13/2021,Singapore,Fintech,"Vertex Ventures SE Asia, Global Founders Capital, Visa Ventures",None,22,3
+Unico,$1,08-03-2021,Brazil,Sao Paulo,Artificial intelligence,None,5,1
+Human Interest,$1,08-04-2021,United States,San Francisco,Fintech,None,26,3
+Bluecore,$1,08-05-2021,United States,New York,Artificial intelligence,None,8,4
+Freshbooks,$1,08-10-2021,Canada,Toronto,Fintech,None,9,3
+Snorkel AI,$1,08-09-2021,United States,Palo Alto,Artificial intelligence,None,10,1
+Gelato,$1,8/16/2021,Norway,Oslo,E-commerce & direct-to-consumer,None,9,4
+Maven Clinic,$1,8/17/2021,United States,New York,Health,None,26,3
+Dunamu,$1,7/22/2021,South Korea,Seoul,Fintech,None,10,2
+Shield AI,$1,8/24/2021,United States,San Diego,Artificial intelligence,None,6,2
+PicsArt,$1,8/26/2021,United States,San Francisco,Mobile & telecommunications,None,9,4
+1KMXC,$1,8/30/2021,China,Hangzhou,Hardware,None,8,3
+Cider,$1,09-02-2021,Hong Kong,E-commerce & direct-to-consumer,"Andreessen Horowitz, DST Global, IDG Capital",None,8,2
+Berlin Brands Group,$1,09-01-2021,Germany,Berlin,E-commerce & direct-to-consumer,None,2,1
+Agile Robots,$1,09-09-2021,Germany,Munich,Hardware,None,14,1
+GrubMarket,$1.2,9/14/2021,United States,San Francisco,E-commerce & direct-to-consumer,None,55,5
+Mammoth Biosciences,$1,09-09-2021,United States,Brisbane,Health,None,1,None
+Orchard,$1,09-09-2021,United States,New York,Fintech,None,1,None
+Xendit,$1,9/14/2021,Indonesia,Jakarta,Fintech,None,8,1
+TrueLayer,$1,9/21/2021,United Kingdom,London,Fintech,None,17,3
+Assembly,$1,9/21/2021,United States,Culver City,Internet software & services,None,3,1
+PandaDoc,$1,9/22/2021,United States,San Francisco,Internet software & services,None,17,3
+Keenon Robotics,$1,9/15/2021,China,Shanghai,"Supply chain, logistics, & delivery",None,13,1
+HAYDON,$1,9/24/2021,China,Shanghai,Consumer & retail,None,2,1
+Ninja Van,$1,9/27/2021,Singapore,"Supply chain, logistics, & delivery","B Capital Group, Monk's Hill Ventures, Dynamic Parcel Distribution",None,15,6
+Vedantu,$1,9/29/2021,India,Bengaluru,Edtech,None,13,5
+TrialSpark,$1,9/30/2021,United States,New York,Health,None,14,1
+Ajaib,$1,10-04-2021,Indonesia,Jakarta,Fintech,None,12,1
+Licious,$1,10-05-2021,India,Bengaluru,E-commerce & direct-to-consumer,None,21,5
+Masterworks,$1,10-05-2021,United States,New York,Fintech,None,3,1
+Chronosphere,$1,10-07-2021,United States,New York,Data management & analytics,None,6,1
+Solo.io,$1,10-07-2021,United States,Cambridge,Internet software & services,None,3,1
+Swile,$1,10-11-2021,France,Montpellier,Fintech,None,8,2
+MobiKwik,$1,10/13/2021,India,Gurugram,Fintech,None,31,9
+Zopa,$1,10/19/2021,United Kingdom,London,Fintech,None,17,2
+Dental Monitoring,$1,10/21/2021,France,Paris,Health,None,3,1
+CargoX,$1,10/21/2021,Brazil,Sao Paulo,"Supply chain, logistics, & delivery",None,18,3
+Fabric,$1,10/26/2021,United States,New York,"Supply chain, logistics, & delivery",None,1,1
+Augury,$1,10/26/2021,United States,New York,Artificial intelligence,None,13,3
+Moka,$1,11-02-2021,China,Beijing,Internet software & services,None,8,2
+Tezign,$1,11-02-2021,China,Shanghai,Internet software & services,None,14,1
+Vagaro,$1,11-03-2021,United States,Dublin,Internet software & services,None,2,1
+Drata,$1,11-08-2021,United States,San Diego,Cybersecurity,None,9,1
+Razor,$1,11-08-2021,Germany,Berlin,Consumer & retail,None,13,2
+OpenWeb,$1,11-09-2021,United States,New York,Internet software & services,None,23,2
+Contrast Security,$1,11-09-2021,United States,Los Altos,Cybersecurity,None,11,3
+Wrapbook,$1,11-10-2021,United States,New York,Fintech,None,8,1
+Gaussian Robotics,$1.1,11-10-2021,China,Shanghai,Hardware,None,17,1
+Mensa Brands,$1,11/16/2021,India,Bengaluru,Other,None,13,3
+Heyday,$1,11/16/2021,United States,Chicago,E-commerce & direct-to-consumer,None,10,1
+PLACE,$1,11/17/2021,United States,Bellingham,Internet software & services,None,2,1
+Stytch,$1,11/18/2021,United States,San Francisco,Cybersecurity,None,11,3
+Owkin,$1,11/18/2021,United States,New York,Artificial Intelligence,None,12,2
+Expel,$1,11/18/2021,United States,Herndon,Cybersecurity,None,11,3
+NoBroker,$1,11/23/2021,India,Bengaluru,Internet software & services,None,14,5
+Slice,$1,11/28/2021,India,Bengaluru,Fintech,None,30,3
+Thought Machine,$1,11/29/2021,United Kingdom,London,Fintech,None,15,3
+Lessen,$1,11/30/2021,United States,Scottsdale,Internet software & services,None,4,1
+Clara,$1,12-06-2021,Mexico,Mexico City,Fintech,None,14,2
+YipitData,$1,12-06-2021,United States,New York,Internet software & services,None,15,3
+Anyscale,$1,12-07-2021,United States,Berkeley,Artificial Intelligence,None,10,1
+Iodine Software,$1,12-01-2021,United States,Austin,Data management & analytics,None,3,1
+ReliaQuest,$1,12-01-2021,United States,Tampa,Cybersecurity,None,4,1
+Pet Circle,$1,12-07-2021,Australia,Alexandria,E-commerce & direct-to-consumer,None,6,1
+Nature's Fynd,$1,7/19/2021,United States,Chicago,Other,None,20,1
+Lydia,$1,12-08-2021,France,Paris,Fintech,None,12,3
+SellerX,$1,12-09-2021,Germany,Berlin,E-commerce & direct-to-consumer,None,13,1
+SnapLogic,$1,12/13/2021,United States,San Mateo,Internet software & services,None,18,8
+Cadence,$1,12/14/2021,United States,New York,Health,None,8,1
+Noname Security,$1,12/15/2021,United States,Palo Alto,Cybersecurity,None,7,1
+Rothy's,$1,12/21/2021,United States,San Francisco,Consumer & retail,None,6,2
+VOI,$1,12/21/2021,Sweden,Stockholm,Travel,None,33,3
+Haomao.AI,$1,12/22/2021,China,Beijing,Artificial Intelligence,None,7,1
+Kopi Kenangan,$1,12/27/2021,Indonesia,Jakarta,Consumer & retail,None,13,1
+InFarm,$1,12/16/2021,Germany,Berlin,Other,None,22,2
+ONE,$1,12-08-2021,Singapore,Internet software & services,"Temasek, Guggenheim Investments, Qatar Investment Authority",None,11,1
+Fractal Analytics,$1,01-05-2022,India,Mumbai,Data management & analytics,None,6,3
+Assent Compliance,$1,01-06-2022,Canada,Ottawa,"Supply chain, logistics, & delivery",None,8,3
+CAIS,$1,01-11-2022,United States,New York,Fintech,None,7,2
+Placer.ai,$1,01-12-2022,United States,Los Altos,Artificial intelligence,None,19,1
+Pentera,$1,01-11-2022,Israel,Petah Tikva,Cybersecurity,None,6,1
+Darwinbox,$1,1/25/2022,India,Hyderabad,Internet software & services,None,10,2
+Minio,$1,1/26/2022,United States,Palo Alto,Data management & analytics,None,13,2
+Fever Labs,$1,1/26/2022,United States,New York,Internet software & services,None,26,4
+Esusu,$1,1/27/2022,United States,New York,Fintech,None,25,1
+Betterfly,$1,02-01-2022,Chile,Santiago,Artificial intelligence,None,13,1
+Dune Analytics,$1,02-02-2022,Norway,Oslo,Data management & analytics,None,12,1
+Scandit,$1,02-09-2022,Switzerland,Zurich,"Supply chain, logistics, & delivery",None,12,3
+Payhawk,$1,2/14/2022,United Kingdom,London,Fintech,None,15,2
+Watershed,$1,02-08-2022,United States,San Francisco,Internet software & services,None,4,1
+Axelar,$1,2/15/2022,Canada,Waterloo,Internet software & services,None,26,1
+CHEQ,$1,2/22/2022,United States,New York,Cybersecurity,None,6,2
+Hasura,$1,2/22/2022,India,Bengaluru,Internet software & services,None,11,1
+Timescale,$1,2/22/2022,United States,New York,Internet software & services,None,7,2
+Scalapay,$1,2/23/2022,Italy,Milan,Fintech,None,10,2
+Omada Health,$1,2/23/2022,United States,San Francisco,Health,None,30,6
+BlueVoyant,$1,2/23/2022,United States,New York,Cybersecurity,None,6,2
+Veev,$1,2/24/2022,United States,San Mateo,Internet software & services,None,11,1
