@@ -45,10 +45,6 @@ CSV – Source data
 
 •	Leading Payment Method: UPI
 
-<img width="1642" height="592" alt="customer_shopping_table_data" src="https://github.com/user-attachments/assets/8679b841-8152-4129-81fe-01f74897a40c" />
-<img width="1899" height="722" alt="MONTHLY REVENUE ANALYSIS" src="https://github.com/user-attachments/assets/7968e754-f5ea-4890-8ad0-bf80407d1f0a" />
-
-
 
 
 
