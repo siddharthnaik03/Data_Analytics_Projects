@@ -13,7 +13,7 @@ Snowflake – Cloud data warehouse
 
 SQL – Data analysis and business insights
 
-Cortex Analyst – Natural-language data analysis using a semantic view
+Cortex Analyst – Natural-language data analysis 
 
 CSV – Source data
 
