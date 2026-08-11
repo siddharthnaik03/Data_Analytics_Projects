@@ -49,6 +49,10 @@ CSV – Source data
 
 •	Leading Payment Method: UPI
 
+<img width="1913" height="720" alt="Screenshot 2026-08-11 120558" src="https://github.com/user-attachments/assets/030415e5-7a83-4232-afa2-7c4e5fd9c668" />
+
+
+
 
 
 
